@@ -67,7 +67,7 @@ title: 加入汉化组
 请注意保留其中的**换行符**```\n```，并且**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)。
 #### EN
 <details>
-若您觉得单行过长的话，您可以将鼠标浮于Json框内，您可点击自动换行 或使用复制按钮将其复制到其他地方。
+若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
 
 ![image](/img/page/copyButton.png)
 
@@ -128,7 +128,7 @@ title: 加入汉化组
 
 #### JP
 <details>
-若您觉得单行过长的话，您可以将鼠标浮于Json框内，您可点击自动换行 或使用复制按钮将其复制到其他地方。
+若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
 
 ![image](/img/page/copyButton.png)
 
@@ -189,7 +189,7 @@ title: 加入汉化组
 
 #### KR
 <details>
-若您觉得单行过长的话，您可以将鼠标浮于Json框内，您可点击自动换行 或使用复制按钮将其复制到其他地方。
+若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
 
 ![image](/img/page/copyButton.png)
 
