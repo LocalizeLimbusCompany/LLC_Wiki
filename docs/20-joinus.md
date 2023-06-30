@@ -7,10 +7,12 @@ title: 加入汉化组
 **而不是**发表类似于我觉得以前更好这种观点
 
 # 加入零协汉化组
-
-[零协会审核群加群链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=S35jbCNIHBlrmez-3mNw2w4rMEz8XmSL&authKey=%2B3Y8zQHw4OGFeON4GKfHdQM44jkKd%2B6YQxMAp3vdLAft018xJdzn%2FcSGTb2ghTno&noverify=0&group_code=374773207)
+[**审核群链接**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=S35jbCNIHBlrmez-3mNw2w4rMEz8XmSL&authKey=%2B3Y8zQHw4OGFeON4GKfHdQM44jkKd%2B6YQxMAp3vdLAft018xJdzn%2FcSGTb2ghTno&noverify=0&group_code=374773207)  
+若不方便使用链接，可展开找到二维码：
+<details>
 
 ![零协会审核群群聊二维码](/img/page/57a21c56-20fe-48a6-9211-71ff4331a281.png)
+</details>
 
 # 入组细则
 请您**先加入我们的审核群**。
