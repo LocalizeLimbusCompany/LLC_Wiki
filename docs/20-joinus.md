@@ -19,7 +19,7 @@ title: 加入汉化组
 请根据自己心仪的职位阅读本文档，完成审核试题后将答案私信提交给相应的管理员。每一位管理员的群名片后都有其负责审核的职位，小心不要看错了。
 ## 翻译
 请在不借助外力、不使用机翻、允许查阅字典的情况下完成以下内容的翻译。会哪种语言就翻译哪个，不用都翻译。  
-请注意保留原文中的**换行符**“\n”。  
+请注意保留原文中的**换行符**```\n```。  
 **请保证您的符号使用符合我们的**[**符号规范**](https://www.zeroasso.top/docs/translate/punctuation)  
 如果您对自身的水平有自信，也可尝试校对题目。
 ### EN
@@ -61,7 +61,7 @@ title: 加入汉化组
 
 ## 校对&润色
 我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。即便是作为校对的考核，我们本次仍借由翻译的形式进行。请独立翻译以下2段文本。您可以自由选择自己翻译的源语言，也可以比对其他语言来辅助您翻译。  
-请注意保留其中的**换行符**“\n”，并且不要破坏[json原有格式]([https://www.zeroasso.top/docs/translate/punctuation](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F))。
+请注意保留其中的**换行符**```\n```，并且不要破坏[json原有格式]([https://www.zeroasso.top/docs/translate/punctuation](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F))。
 ### EN
 <details>
 
