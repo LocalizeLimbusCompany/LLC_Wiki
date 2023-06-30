@@ -2,11 +2,7 @@
 title: 加入汉化组
 ---
 
-如果你认为一个技能翻译的不够好 正确的做法是加入然后参与讨论或投票或在github发送issue。
-
-**而不是**发表类似于我觉得以前更好这种观点
-
-## 加入零协汉化组
+## 加入都市零协会
 [**审核群链接**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=S35jbCNIHBlrmez-3mNw2w4rMEz8XmSL&authKey=%2B3Y8zQHw4OGFeON4GKfHdQM44jkKd%2B6YQxMAp3vdLAft018xJdzn%2FcSGTb2ghTno&noverify=0&group_code=374773207)  
 若不方便使用链接，可展开找到二维码：
 <details>
