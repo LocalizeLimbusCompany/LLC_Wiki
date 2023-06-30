@@ -65,7 +65,7 @@ title: 加入汉化组
 
 ## 校对&润色
 我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。即便是作为校对的考核，我们本次仍借由翻译的形式进行。请独立翻译以下2段文本。您可以自由选择自己翻译的源语言，也可以比对其他语言来辅助您翻译。  
-请注意保留其中的**换行符**```\n```，并且不要破坏[json原有格式]([https://www.zeroasso.top/docs/translate/punctuation](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F))。
+请注意保留其中的**换行符**```\n```，并且不要破坏[json原有格式]([https://www.zeroasso.top/docs/translate/punctuation](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)。
 ### EN
 <details>
 
