@@ -67,54 +67,56 @@ E.G.O
 
 **第一段**  
 ```json
-      "id": 901026,  
-      "name": "",  
-      "subDesc": "",  
-      "desc": "A cluster of eyes looks this way.\nThe thing in the middle has the appearance of a tree branch, but it is human.\n\nHeaven sometimes burrows;\nother times, it makes a home in the heart.\n\nOnce taken root, that heaven\nwill only be visible through the eyes of others.",  
-      "options": [  
-        {  
-          "message": "Close your eyes.",  
-          "result": [  
-            "Even with one’s eyes closed, heaven is there.\n\nAs long as heaven is lodged in,\nthere is no way to avert your gaze\nfrom what you wish not to see.\n\nMeaning, you may only see\nwhat it wants you to see.\n\nEven though one’s eyes were closed,\none’s sight remained open.\n\nIt will be forever impossible to close."  
-          ]  
-        },  
-        {  
-          "message": "Return the gaze.",  
-          "result": [  
-            "You stare into it without blinking.\n\nIts eyes won’t so much as flinch.\n\nThose eyes don’t care if the host twitches in pain.\n\nYou are not what the eyes are looking at.\n\nIt must be heaven somewhere behind me."  
-          ]  
-        }  
-      ]  
-    },
+    {
+      "id": 901026,
+      "name": "",
+      "subDesc": "",
+      "desc": "A cluster of eyes looks this way.\nThe thing in the middle has the appearance of a tree branch, but it is human.\n\nHeaven sometimes burrows;\nother times, it makes a home in the heart.\n\nOnce taken root, that heaven\nwill only be visible through the eyes of others.",
+      "options": [
+        {
+          "message": "Close your eyes.",
+          "result": [
+            "Even with one’s eyes closed, heaven is there.\n\nAs long as heaven is lodged in,\nthere is no way to avert your gaze\nfrom what you wish not to see.\n\nMeaning, you may only see\nwhat it wants you to see.\n\nEven though one’s eyes were closed,\none’s sight remained open.\n\nIt will be forever impossible to close."
+          ]
+        },
+        {
+          "message": "Return the gaze.",
+          "result": [
+            "You stare into it without blinking.\n\nIts eyes won’t so much as flinch.\n\nThose eyes don’t care if the host twitches in pain.\n\nYou are not what the eyes are looking at.\n\nIt must be heaven somewhere behind me."
+          ]
+        }
+      ]
+    },
 ```
     
 **第二段**  
 ```json
-      "id": 901027,  
-      "name": "",  
-      "subDesc": "",  
-      "desc": "Oh, how blue this is.\n\nThe pure hue of blue\nallows nothing to approach.\n\nWhen you try to go near, your body is pushed away.\nAnd yet, it is so, so blue.\n\nYou wish to have that color.\n\nThe irresistible allure\nis almost tearing you apart.",  
-      "options": [  
-        {  
-          "message": "Forward.",  
-          "result": [  
-            "Blue.\n\nIt’s blue.\n\nWe’re blue.\n\nI’m blue too.\n\nDEEPYETFAINTGLOOMYYETMERRYFRIGIDYET\nWARMSHARPYETSOFTCOOLYETSWELTERING"
-          ]  
-        },  
-        {  
-          "message": "Backward.",  
-          "result": [  
-            "Alas, we are but impurities.\n\nTo be truly blue,\nthe one with the true blue\nmust be left alone in one’s blueness.\n\nWe were bounced off.\n\nA strange, uplifting aura\nshrouded us."  
-          ]  
-        },  
-        {  
-          "message": "Take your leave.",  
-          "result": [  
-            "You gathered your wits and turned away.\n\nYou mustn’t fall for its temptation.\n\nYou will keep your eyes away from it,\nand forget that you ever saw such a thing."  
-          ]  
-        }  
-      ]  
-    },
+    {
+      "id": 901027,
+      "name": "",
+      "subDesc": "",
+      "desc": "Oh, how blue this is.\n\nThe pure hue of blue\nallows nothing to approach.\n\nWhen you try to go near, your body is pushed away.\nAnd yet, it is so, so blue.\n\nYou wish to have that color.\n\nThe irresistible allure\nis almost tearing you apart.",
+      "options": [
+        {
+          "message": "Forward.",
+          "result": [
+            "Blue.\n\nIt’s blue.\n\nWe’re blue.\n\nI’m blue too.\n\nDEEPYETFAINTGLOOMYYETMERRYFRIGIDYET\nWARMSHARPYETSOFTCOOLYETSWELTERING"
+          ]
+        },
+        {
+          "message": "Backward.",
+          "result": [
+            "Alas, we are but impurities.\n\nTo be truly blue,\nthe one with the true blue\nmust be left alone in one’s blueness.\n\nWe were bounced off.\n\nA strange, uplifting aura\nshrouded us."
+          ]
+        },
+        {
+          "message": "Take your leave.",
+          "result": [
+            "You gathered your wits and turned away.\n\nYou mustn’t fall for its temptation.\n\nYou will keep your eyes away from it,\nand forget that you ever saw such a thing."
+          ]
+        }
+      ]
+    },
 ```
 </details>
 
@@ -123,55 +125,56 @@ E.G.O
 
 **第一段**  
 ```json
-      "id": 901026,  
-      "name": "",  
-      "subDesc": "",  
-      "desc": "沢山の目玉がこちら見つめる。\n真ん中にあるのは木の枝のように見えるが、人間だ。\n\n天国は\nときには心の中に寄生する。\n\n一度刺さってしまった天国は私ではない\n誰かの目でしか見られないだろう。",  
-      "options": [  
-        {  
-          "message": "目を閉じる。"   
-          "result": [  
-            "目を閉じても見えるのが天国だ。\n\n天国が刺さっている以上\n私が見たくないものを\n見ずにいることはできない。\n\nつまり、これが見たがっている\nものだけを見なければならないということだ。\n\n私は目を閉じていたが、\n同時に目を開けていた。\n\n永遠に閉じることはできないだろう。"  
-          ]  
-        },  
-        {  
-          "message": "目を合わせる。",   
-          "result": [  
-            "瞬きせず、そのまま見つめ返す。\n\nこれの目玉は微動だにしない。\n\n人が苦しさに悶えても、瞳は気にも留めない。\n\nこれらが見つめているのは私ではない。\n\n私の後ろにあるはずの、どこかの天国だろう。"  
-          ]  
-        }  
-      ]  
-    },
+    {
+      "id": 901026,
+      "name": "",
+      "subDesc": "",
+      "desc": "沢山の目玉がこちら見つめる。\n真ん中にあるのは木の枝のように見えるが、人間だ。\n\n天国は喰い込むこともあるが\nときには心の中に寄生する。\n\n一度刺さってしまった天国は私ではない\n誰かの目でしか見られないだろう。",
+      "options": [
+        {
+          "message": "目を閉じる。",
+          "result": [
+            "目を閉じても見えるのが天国だ。\n\n天国が刺さっている以上\n私が見たくないものを\n見ずにいることはできない。\n\nつまり、これが見たがっている\nものだけを見なければならないということだ。\n\n私は目を閉じていたが、\n同時に目を開けていた。\n\n永遠に閉じることはできないだろう。"
+          ]
+        },
+        {
+          "message": "目を合わせる。",
+          "result": [
+            "瞬きせず、そのまま見つめ返す。\n\nこれの目玉は微動だにしない。\n\n人が苦しさに悶えても、瞳は気にも留めない。\n\nこれらが見つめているのは私ではない。\n\n私の後ろにあるはずの、どこかの天国だろう。"
+          ]
+        }
+      ]
+    },
 ```
     
 **第二段**  
 ```json
-    {  
-      "id": 901027,  
-      "name": "",  
-      "subDesc": "",  
-      "desc": "ああ、これはあまりにも青い。\n\nこの純粋な蒼さは\nいかなるものも近寄せない。\n\n近づこうとするほど体が押し返される。\nしかし、それはあまりにも青い。\n\n蒼くなりたい。\n\nあまりにも強い衝動に\n身体が裂けてしまいそうだ。",  
-      "options": [  
-        {  
-          "message": "進む。",  
-          "result": [  
-            "青い。\n\n青い。\n\n私たちも青い。\n\n私も青い。\n\nこくもうすくゆううつながらもゆかいでさむくも\nあつくするどくもやわらくすずしくもむしあつい"  
-          ]  
-        },  
-        {  
-          "message": "押し返される。",  
-          "result": [  
-            "しかし、私たちは不純物だ。\n\n本当に蒼くなりたいのなら\n真の蒼さを持ったものを\n蒼さとすべきだ。\n\n私たちはそのまま弾き返された。\n\nなんだかよく分からない高揚感が\n私たちを包み込んだ。"  
-          ]  
-        },  
-        {  
-          "message": "急いで離れる。",  
-          "result": [  
-            "正気を取り戻して目を背けた。\n\nあれに引っ張られていけない。\n\nあんなものを見ることも、\n見た記憶さえ残してはいけない。"  
-          ]  
-        }  
-      ]  
-    },
+    {
+      "id": 901027,
+      "name": "",
+      "subDesc": "",
+      "desc": "ああ、これはあまりにも青い。\n\nこの純粋な青さは\nいかなるものも近寄せない。\n\n近づこうとするほど体が押し返される。\nしかし、それはあまりにも青い。\n\n青くなりたい。\n\nあまりにも強い衝動に\n身体が裂けてしまいそうだ。",
+      "options": [
+        {
+          "message": "進む。",
+          "result": [
+            "青い。\n\n青い。\n\n私たちも青い。\n\n私も青い。\n\nこくもうすくゆううつながらもゆかいでさむくも\nあつくするどくもやわらくすずしくもむしあつい"
+          ]
+        },
+        {
+          "message": "押し返される。",
+          "result": [
+            "しかし、私たちは不純物だ。\n\n本当に青くなりたいのなら\n真の青さを持ったものを\n青さとすべきだ。\n\n私たちはそのまま弾き返された。\n\nなんだかよく分からない高揚感が\n私たちを包み込んだ。"
+          ]
+        },
+        {
+          "message": "急いで離れる。",
+          "result": [
+            "正気を取り戻して目を背けた。\n\nあれに引っ張られていけない。\n\nあんなものを見ることも、\n見た記憶さえ残してはいけない。"
+          ]
+        }
+      ]
+    },
 ```
 </details>
 
@@ -180,54 +183,55 @@ E.G.O
 
 **第一段**  
 ```json
-      "id": 901026,  
-      "name": "",  
-      "subDesc": "",  
-      "desc": "여러 눈알이 이쪽을 바라본다.\n가운데 있는 것은 나무가지 같이 보이지만 사람이다.\n\n천국은 파고들기도 하지만\n때로는 마음속에 기생한다.\n\n한번 박혀버린 천국은 내가 아닌\n누군가의 눈으로밖에 보지 못할 것이다.",  
-      "options": [  
-        {  
-          "message": "눈을 감는다.",  
-          "result": [  
-            "눈을 감아도 보이는 것이 천국이다.\n\n천국이 박혀있는 이상\n내가 보고 싶지 않은 것을\n보지 않을 수는 없다.\n\n그 말은 이것이 보고 싶어 하는\n것만을 보아야 하는 것이다.\n\n나는 눈을 감고 있었지만,\n동시에 눈을 뜨고 있었다.\n\n영원히 감을 수 없을 것이다."  
-          ]  
-        },  
-        {  
-          "message": "마주한다.",  
-          "result": [  
-            "눈을 깜빡이지 않고 그대로 바라본다.\n\n이것의 눈알은 미동조차 하지 않는다.\n\n사람이 괴로움에 움찔거려도 눈동자는 개의치 않는다.\n\n이것들이 바라보는 것은 내가 아니다.\n\n내 뒤에 있을 어딘가의 천국일 것이다."  
-          ]  
-        }  
-      ]  
-    },
+    {
+      "id": 901026,
+      "name": "",
+      "subDesc": "",
+      "desc": "여러 눈알이 이쪽을 바라본다.\n가운데 있는 것은 나무가지 같이 보이지만 사람이다.\n\n천국은 파고들기도 하지만\n때로는 마음속에 기생한다.\n\n한번 박혀버린 천국은 내가 아닌\n누군가의 눈으로밖에 보지 못할 것이다.",
+      "options": [
+        {
+          "message": "눈을 감는다.",
+          "result": [
+            "눈을 감아도 보이는 것이 천국이다.\n\n천국이 박혀있는 이상\n내가 보고 싶지 않은 것을\n보지 않을 수는 없다.\n\n그 말은 이것이 보고 싶어 하는\n것만을 보아야 하는 것이다.\n\n나는 눈을 감고 있었지만,\n동시에 눈을 뜨고 있었다.\n\n영원히 감을 수 없을 것이다."
+          ]
+        },
+        {
+          "message": "마주한다.",
+          "result": [
+            "눈을 깜빡이지 않고 그대로 바라본다.\n\n이것의 눈알은 미동조차 하지 않는다.\n\n사람이 괴로움에 움찔거려도 눈동자는 개의치 않는다.\n\n이것들이 바라보는 것은 내가 아니다.\n\n내 뒤에 있을 어딘가의 천국일 것이다."
+          ]
+        }
+      ]
+    },
 ```
 
 **第二段**  
 ```json
-      "id": 901027,  
-      "name": "",  
-      "subDesc": "",  
-      "desc": "아아, 이것은 너무나 파랗다.\n\n이 순수한 푸르름은 그 무엇도\n가까이 오게 두지 않는다.\n\n다가가고자 할수록 몸이 밀려난다.\n그러나 그것은 너무나 파랗다.\n\n파랗고 싶어진다.\n\n너무나 강한 이끌림에\n몸이 찢겨나갈 것만 같다.",  
-      "options": [  
-        {  
-          "message": "나아간다.",  
-          "result": [  
-            "파랗다.\n\n파랗다.\n\n우리도 파랗다.\n\n나도 파랗다.\n\n짙고도연하고울적하고도유쾌하고시리고도따뜻\n하고날카롭고도부드럽고서늘하면서도후덥하다"  
-          ]  
-        },  
-        {  
-          "message": "밀려난다.",  
-          "result": [  
-            "그러나 우리는 불순물이다.\n\n진정 파랗고 싶다면\n진정한 푸르름을 가진 것을\n푸름으로 두어야 한다.\n\n우리는 그대로 튕겨 나왔다.\n\n무언가 모를 고양감이\n우리를 감싸 안았다."  
-          ]  
-        },  
-        {  
-          "message": "서둘러 떠난다.",  
-          "result": [  
-            "정신을 바르게 하고 눈을 피했다.\n\n저것에 이끌려서는 안 된다.\n\n저런 것을 보는 것도,\n보았던 기억조차도 남겨서는 안 된다."  
-          ]  
-        }  
-      ]  
-    },
+      "id": 901027,
+      "name": "",
+      "subDesc": "",
+      "desc": "아아, 이것은 너무나 파랗다.\n\n이 순수한 푸르름은 그 무엇도\n가까이 오게 두지 않는다.\n\n다가가고자 할수록 몸이 밀려난다.\n그러나 그것은 너무나 파랗다.\n\n파랗고 싶어진다.\n\n너무나 강한 이끌림에\n몸이 찢겨나갈 것만 같다.",
+      "options": [
+        {
+          "message": "나아간다.",
+          "result": [
+            "파랗다.\n\n파랗다.\n\n우리도 파랗다.\n\n나도 파랗다.\n\n짙고도연하고울적하고도유쾌하고시리고도따뜻\n하고날카롭고도부드럽고서늘하면서도후덥하다"
+          ]
+        },
+        {
+          "message": "밀려난다.",
+          "result": [
+            "그러나 우리는 불순물이다.\n\n진정 파랗고 싶다면\n진정한 푸르름을 가진 것을\n푸름으로 두어야 한다.\n\n우리는 그대로 튕겨 나왔다.\n\n무언가 모를 고양감이\n우리를 감싸 안았다."
+          ]
+        },
+        {
+          "message": "서둘러 떠난다.",
+          "result": [
+            "정신을 바르게 하고 눈을 피했다.\n\n저것에 이끌려서는 안 된다.\n\n저런 것을 보는 것도,\n보았던 기억조차도 남겨서는 안 된다."
+          ]
+        }
+      ]
+    },
 ```
 </details>
 
