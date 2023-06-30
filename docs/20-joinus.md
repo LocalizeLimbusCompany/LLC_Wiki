@@ -71,7 +71,7 @@ title: 加入汉化组
 <details>
 若您觉得单行过长的话，您可以点击右上角的复制按钮，并使用记事本或其他文档查看。
 
-![复制按钮](/img/page/copyButton.png)
+![image](/img/page/copyButton.png)
 
 **第一段**  
 ```json
@@ -132,7 +132,7 @@ title: 加入汉化组
 <details>
 若您觉得单行过长的话，您可以点击右上角的复制按钮，并使用记事本或其他文档查看。
 
-![复制按钮](/img/page/copyButton.png)
+![image](/img/page/copyButton.png)
 
 **第一段**  
 ```json
@@ -193,7 +193,7 @@ title: 加入汉化组
 <details>
 若您觉得单行过长的话，您可以点击右上角的复制按钮，并使用记事本或其他文档查看。
 
-![复制按钮](/img/page/copyButton.png)
+![image](/img/page/copyButton.png)
 
 **第一段**  
 ```json
