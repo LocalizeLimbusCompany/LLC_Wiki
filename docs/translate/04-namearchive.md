@@ -245,7 +245,7 @@ basilisoup
 ### 关于“冠汤翼蜥”
 
 <div style={{display: 'flex'}}>
-  <img src="../../../img/page/e3e4ebe0-2fc3-4c34-8d87-c637ad5ddf9d.jpg"  style={{width:'45%',marginRight: '10px'}}></img>
+  <img src="../../../img/page/10802_portrait.png"  style={{width:'45%',marginRight: '10px'}}></img>
   <img src="../../../img/page/c6bad41c-1a69-41d1-9adf-374ea92d9dcc.jpg"  style={{width:'45%',marginLeft: '10px'}}></img>
   <p></p>
 </div>
