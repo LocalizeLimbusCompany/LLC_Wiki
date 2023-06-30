@@ -34,6 +34,7 @@ title: 加入汉化组
 > 
 > 第三部分：  
 > You don’t fear the pointed gun.\n\nEven if they were to pull the trigger…\n\nIt doesn’t matter how many times the hammer strikes.\n\nYou know the bullet will hit that person’s head.\n\nIn the blink of an eye,\nthe gun aimed at their own temple,\nand soon fired.\n\nThe person was gone,\nleaving an ashen coat on the floor.
+
 </details>
 
 ### JP
