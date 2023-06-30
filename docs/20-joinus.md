@@ -69,6 +69,9 @@ title: 加入汉化组
 请注意保留其中的**换行符**```\n```，并且不要破坏[json原有格式](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)。
 ### EN
 <details>
+若您觉得单行过长的话，您可以点击右上角的复制按钮，并使用记事本或其他文档查看。
+
+![复制按钮](/img/page/copyButton.png)
 
 **第一段**  
 ```json
@@ -127,6 +130,9 @@ title: 加入汉化组
 
 ### JP
 <details>
+若您觉得单行过长的话，您可以点击右上角的复制按钮，并使用记事本或其他文档查看。
+
+![复制按钮](/img/page/copyButton.png)
 
 **第一段**  
 ```json
@@ -185,6 +191,9 @@ title: 加入汉化组
 
 ### KR
 <details>
+若您觉得单行过长的话，您可以点击右上角的复制按钮，并使用记事本或其他文档查看。
+
+![复制按钮](/img/page/copyButton.png)
 
 **第一段**  
 ```json
