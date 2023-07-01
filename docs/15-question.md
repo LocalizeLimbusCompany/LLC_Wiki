@@ -64,7 +64,7 @@ title: 常见问题
 
 这个问题是因为我们的模组框架(MelonLoader)因为各种可能的问题而没有被正确安装导致的。
 
-您应该尝试：[重新安装](https://www.zeroasso.top/docs/install/autoinstall)或[手动安装MelonLoader](https://www.zeroasso.top/docs/install/install#melonloader)。
+您应该尝试：首先**删除已经安装的MelonLoader(模组框架)**。然后进行[重新安装](https://www.zeroasso.top/docs/install/autoinstall)或[手动安装MelonLoader](https://www.zeroasso.top/docs/install/install)。
 
 ### 控制台卡住：Initialization - Contacting Remote API
 ![image](/img/page/stuckApi.png)
