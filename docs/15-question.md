@@ -7,6 +7,8 @@ title: 常见问题
 ### 远程服务器返回错误：(404)
 ![image](/img/page/err404.jpg)
 
+首先，请确保您已经下载了**最新版**的安装器。
+
 这个错误说明您现有的网络无法连接我们提供的下载分流。不过别担心，您不必使用我们提供的分流。您可以按照如下步骤使用GitHub下载。
 
 - 首先请观察您的安装器的设置栏目，您现有的的默认设置应该是：  
@@ -26,4 +28,22 @@ title: 常见问题
 
 成功加速GitHub后，您可以再次尝试安装。
 
-遇到其他疑难杂症？提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。
+### Failed to Download Cpp2IL!
+首先，请确保您已经下载了**最新版**的安装器。
+
+这个问题可能在您**首次使用模组或更新版本**时出现。  
+这是因为我们使用的模组框架(MelonLoader)在**首次**启用时，将会从GitHub下载一个运行库。
+
+也就是说，这个问题的出现意味着您与**与GitHub的链接不畅**。  
+但是，既然您已经使用完毕安装器，并成功地打开游戏，启动了MelonLoader的弹窗——这个问题**与安装器无关**。
+
+这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
+> 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
+
+您也可以尝试手动下载并装入缺失的运行库。如果您对自己的操作不自信，您应该**优先尝试解决网络问题**再尝试手动安装。  
+- 从[GitHub LavaGang](https://github.com/LavaGang/Unity-Runtime-Libraries/raw/master/2021.3.0.zip)下载运行库```2021.3.0.zip```
+- 将其重命名为```UnityDependencies_2021.3.0.zip```
+- 将其放入您Steam游戏根目录的以下位置：```Limbus Company\MelonLoader\Dependencies\Il2CppAssemblyGenerator\UnityDependencies_2021.3.0.zip```
+
+### 遇到其他疑难杂症？
+提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。
