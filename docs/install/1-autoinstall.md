@@ -42,7 +42,7 @@ title: 推荐-自动安装
 运行LLC_MOD_Toolbox.exe，点击一键安装，并等待安装完成后运行游戏即可。
 
 ## 出现问题？
-
+- 请**优先参考**[**常见问题**](https://www.zeroasso.top/docs/question)页面中的提示。
 - 你可以在 [Github Issue](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/issues) 提交Issue。
   - 推荐，你可以获得最好的帮助。
 - 在 [LLCG](https://jq.qq.com/?_wv=1027&k=5NE6Kvg2) 反馈。
