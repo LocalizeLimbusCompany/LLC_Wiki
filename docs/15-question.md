@@ -23,7 +23,7 @@ title: 常见问题
 若您遇到**相同错误**，那么这说明您**与GitHub的链接不畅**。  
 这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
 > 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
-
+ 
 成功加速GitHub后，您可以再次尝试安装。
 
 遇到其他疑难杂症？提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。
