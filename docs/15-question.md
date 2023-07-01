@@ -48,4 +48,8 @@ title: 常见问题
 - 将其放入您Steam游戏根目录的以下位置：```Limbus Company\MelonLoader\Dependencies\Il2CppAssemblyGenerator\UnityDependencies_2021.3.0.zip```
 
 ### 遇到其他疑难杂症？
-提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。
+1. 检查游戏路径内是否存在中文
+2. 是否已经自行正确安装.NET6.0
+3. 尝试重启
+4. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。
+5. 重装系统(慎用，但有解决问题的先例)
