@@ -47,9 +47,18 @@ title: 常见问题
 - 将其重命名为```UnityDependencies_2021.3.0.zip```
 - 将其放入您Steam游戏根目录的以下位置：```Limbus Company\MelonLoader\Dependencies\Il2CppAssemblyGenerator\UnityDependencies_2021.3.0.zip```
 
+### Failed to initialize MelonLoader
+![image](/img/page/failmelon.png)
+
+首先，请确保您已经下载了**最新版**的安装器。
+
+这个问题是因为我们的模组框架(MelonLoader)因为各种可能的问题而没有被正确安装导致的。
+
+您应该尝试：[重新安装](https://www.zeroasso.top/docs/install/autoinstall)或[手动安装MelonLoader](https://www.zeroasso.top/docs/install/install#melonloader)。
+
 ### 遇到其他疑难杂症？
-1. 检查游戏路径内是否存在中文
-2. 是否已经自行正确安装.NET6.0
+1. **检查游戏路径内是否存在中文**
+2. **是否已经自行正确安装.NET6.0**
 3. 尝试重启
 4. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
 5. 重装系统(慎用，但有解决问题的先例)
