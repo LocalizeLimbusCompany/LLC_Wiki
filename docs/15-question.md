@@ -50,7 +50,7 @@ title: 常见问题
 ### Failed to Download UnityDependencies!
 ![image](/img/page/failUnity.png)
 
-[**同上。**](https://www.zeroasso.top/docs/question#failed-to-download-cpp2il)
+同上：[**Failed to Download Cpp2IL!**](https://www.zeroasso.top/docs/question#failed-to-download-cpp2il)
 
 ### Failed to initialize MelonLoader
 ![image](/img/page/failmelon.png)
