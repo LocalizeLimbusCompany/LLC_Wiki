@@ -56,6 +56,14 @@ title: 常见问题
 
 您应该尝试：[重新安装](https://www.zeroasso.top/docs/install/autoinstall)或[手动安装MelonLoader](https://www.zeroasso.top/docs/install/install#melonloader)。
 
+### 控制台卡住：Initialization - Contacting Remote API
+![image](/img/page/stuckApi.png)
+
+这个问题是因为我们的模组框架(MelonLoader)需要但无法连接GitHub API。
+
+这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
+> 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
+
 ### 遇到其他疑难杂症？
 1. **检查游戏路径内是否存在中文**
 2. **是否已经自行正确安装.NET6.0**
