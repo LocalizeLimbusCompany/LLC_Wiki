@@ -51,5 +51,5 @@ title: 常见问题
 1. 检查游戏路径内是否存在中文
 2. 是否已经自行正确安装.NET6.0
 3. 尝试重启
-4. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。
+4. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
 5. 重装系统(慎用，但有解决问题的先例)
