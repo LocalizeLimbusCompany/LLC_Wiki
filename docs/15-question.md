@@ -29,6 +29,8 @@ title: 常见问题
 成功加速GitHub后，您可以再次尝试安装。
 
 ### Failed to Download Cpp2IL!
+![image](/img/page/failcpp2il.png)
+
 首先，请确保您已经下载了**最新版**的安装器。
 
 这个问题可能在您**首次使用模组或更新版本**时出现。  
