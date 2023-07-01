@@ -36,7 +36,7 @@ title: 常见问题
 这个问题可能在您**首次使用模组或更新版本**时出现。  
 这是因为我们使用的模组框架(MelonLoader)在**首次**启用时，将会从GitHub下载一个运行库。
 
-也就是说，这个问题的出现意味着您与**与GitHub的链接不畅**。  
+也就是说，这个问题的出现意味着您与**与GitHub的链接不畅**，是网络问题导致的。  
 但是，既然您已经使用完毕安装器，并成功地打开游戏，启动了MelonLoader的弹窗——这个问题**与安装器无关**。
 
 这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
@@ -46,6 +46,11 @@ title: 常见问题
 - 从[GitHub LavaGang](https://github.com/LavaGang/Unity-Runtime-Libraries/raw/master/2021.3.0.zip)下载运行库```2021.3.0.zip```
 - 将其重命名为```UnityDependencies_2021.3.0.zip```
 - 将其放入您Steam游戏根目录的以下位置：```Limbus Company\MelonLoader\Dependencies\Il2CppAssemblyGenerator\UnityDependencies_2021.3.0.zip```
+
+### Failed to Download UnityDependencies!
+![image](/img/page/failUnity.png)
+
+[**同上。**](https://www.zeroasso.top/docs/question#failed-to-download-cpp2il)
 
 ### Failed to initialize MelonLoader
 ![image](/img/page/failmelon.png)
