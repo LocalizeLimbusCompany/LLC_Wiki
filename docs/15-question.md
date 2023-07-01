@@ -27,7 +27,7 @@ title: 常见问题
 
 现在，您**可再尝试重新安装**。
 
-若您遇到**相同错误**，那么这说明您**与GitHub的链接不畅**。  
+若您遇到**相同错误**，那么这说明您**与GitHub的链接不畅**。**请尝试以任何方式(打开/关闭您已有的加速器)更改您的网络环境**。  
 这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
 > 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
 
@@ -41,7 +41,7 @@ title: 常见问题
 这个问题可能在您**首次使用模组或更新版本**时出现。  
 这是因为我们使用的模组框架(MelonLoader)在**首次**启用时，将会从GitHub下载一个运行库。
 
-也就是说，这个问题的出现意味着您与**与GitHub的链接不畅**，是网络问题导致的。  
+也就是说，这个问题的出现意味着您与**与GitHub的链接不畅**，是网络问题导致的。**请尝试以任何方式(打开/关闭您已有的加速器)更改您的网络环境**。  
 但是，既然您已经使用完毕安装器，并成功地打开游戏，启动了MelonLoader的弹窗——这个问题**与安装器无关**。
 
 这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
@@ -71,13 +71,14 @@ title: 常见问题
 
 这个问题是因为我们的模组框架(MelonLoader)需要但无法连接GitHub API。
 
-这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
+这时，您可以尝试**加速**GitHub。**请尝试以任何方式(打开/关闭您已有的加速器)更改您的网络环境**。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
 > 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
 
 ### 遇到其他疑难杂症？
 0. 请确保您已经下载了**最新版**的安装器。
 1. **检查游戏路径内是否存在中文**
 2. **是否已经自行正确安装.NET6.0**
-3. 尝试重启
-4. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
-5. 重装系统(慎用，但有解决问题的先例)
+3. **请尝试以任何方式(打开/关闭您已有的加速器)以更改您的网络环境**。
+4. 尝试重启
+5. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
+6. 重装系统(慎用，但有解决问题的先例)
