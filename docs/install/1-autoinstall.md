@@ -43,7 +43,4 @@ title: 推荐-自动安装
 
 ## 出现问题？
 - 请**优先参考**[**常见问题**](https://www.zeroasso.top/docs/question)页面中的提示。
-- 你可以在 [Github Issue](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/issues) 提交Issue。
-  - 推荐，你可以获得最好的帮助。
-- 在 [LLCG](https://jq.qq.com/?_wv=1027&k=5NE6Kvg2) 反馈。
-  - 不推荐，开发者可能无法看到你的回复，并且无法为你的问题作出太多回答。
+- [向我们反馈问题](/docs/callus)。
