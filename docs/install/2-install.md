@@ -58,3 +58,7 @@ title: 手动安装
 ## 完成
 进入游戏（记得挂着Watt Toolkit），你会看见一个西瓜跳来跳去，如果你看了注意事项且按照本指南操作，正常情况不会有报错，等待至启动游戏就行。
 ![Step4](/img/page/install-step4.webp)
+
+## 出现问题？
+- 请**优先参考**[**常见问题**](https://www.zeroasso.top/docs/question)页面中的提示。
+- [向我们反馈问题](/docs/callus)。
