@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
   
   presets: [
@@ -76,11 +76,10 @@ const config = {
             ],
           },
           {
-            title: '联系我们',
             items: [
               {
-                label: 'Bilibili',
-                href: 'https://space.bilibili.com/1247764479',
+                label: '联系我们',
+                to: '/docs/callus',
               },
             ],
           },
