@@ -20,7 +20,7 @@
     {
       "source": "/github/wiki",
       "destination": "https://github.com/LocalizeLimbusCompany/LLC_Wiki"
-    },
-  ],
-  "regions": ["hkg1"],
+    }
+  ]
+  "regions": ["hkg1"]
 }
