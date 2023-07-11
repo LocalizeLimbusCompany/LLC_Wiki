@@ -1,0 +1,26 @@
+{
+  "public": true,
+  "redirects": [
+    {
+      "source": "/bilibili",
+      "destination": "https://space.bilibili.com/1247764479/dynamic"
+    },
+    {
+      "source": "/github/main",
+      "destination": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany"
+    },
+    {
+      "source": "/github/toolbox",
+      "destination": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox"
+    },
+    {
+      "source": "/github/tmp",
+      "destination": "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset"
+    },
+    {
+      "source": "/github/wiki",
+      "destination": "https://github.com/LocalizeLimbusCompany/LLC_Wiki"
+    },
+  ],
+  "regions": ["hkg1"],
+}
