@@ -24,8 +24,7 @@ title: 推荐-自动安装
 
 ### 下载 工具箱
 
-在下方选择一个节点下载工具箱  
-请您**优先选用OneDrive For Business或GitHub下载**！！纽约服务器有CDN缓存，存在更新延迟！
+在下方选择一个节点下载工具箱。
 
 <a href="https://dl.determination.top/files/LocalizeLimbusModInstaller.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/LocalizeLimbusModInstaller.7z" class="buttonDownload">美国Las Vegas服务器</a>
 
