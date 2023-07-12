@@ -27,7 +27,7 @@ title: 推荐-自动安装
 在下方选择一个节点下载工具箱  
 请您**优先选用OneDrive For Business或GitHub下载**！！纽约服务器有CDN缓存，存在更新延迟！
 
-<a href="https://dl.determination.top/files/LocalizeLimbusModInstaller.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/LocalizeLimbusModInstaller.7z" class="buttonDownload">美国New York服务器</a>
+<a href="https://dl.determination.top/files/LocalizeLimbusModInstaller.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/LocalizeLimbusModInstaller.7z" class="buttonDownload">美国Las Vegas服务器</a>
 
 [Cloudflare CDN](https://limbus.determination.top/files/LocalizeLimbusModInstaller.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/latest)
 
