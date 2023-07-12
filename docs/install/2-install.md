@@ -23,17 +23,17 @@ title: 手动安装
 注意，如果你使用**Github Release**下载文件，切勿下载**Source code**或**带有OTA的压缩包**，你应该下载类似于**LimbusLocalize_v0.x.x.7z**的文件。
 
 ### MelonLoader
-<a href="https://dl.determination.top/files/MelonLoader.x64.zip" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/MelonLoader.x64.zip" class="buttonDownload">美国New York服务器</a>
+<a href="https://dl.determination.top/files/MelonLoader.x64.zip" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/MelonLoader.x64.zip" class="buttonDownload">美国Las Vegas服务器</a>
 
 [Cloudflare CDN](https://limbus.determination.top/files/MelonLoader.x64.zip) | [Github Release](https://github.com/LavaGang/MelonLoader/releases/latest)
 
 ### 字体文件
-<a href="https://dl.determination.top/files/tmpchinesefont.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/tmpchinesefont.7z" class="buttonDownload">美国New York服务器</a>
+<a href="https://dl.determination.top/files/tmpchinesefont.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/tmpchinesefont.7z" class="buttonDownload">美国Las Vegas服务器</a>
 
 [Cloudflare CDN](https://limbus.determination.top/files/tmpchinesefont.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest)
 
 ### 模组本体
-<a href="https://dl.determination.top/files/LimbusLocalize_FullPack.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/LimbusLocalize_FullPack.7z" class="buttonDownload">美国New York服务器</a>
+<a href="https://dl.determination.top/files/LimbusLocalize_FullPack.7z" class="buttonDownload">OneDrive For Business</a> <a href="https://llc.determination.top/files/LimbusLocalize_FullPack.7z" class="buttonDownload">美国Las Vegas服务器</a>
 
 [Cloudflare CDN](https://limbus.determination.top/files/LimbusLocalize_FullPack.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/latest)
 
