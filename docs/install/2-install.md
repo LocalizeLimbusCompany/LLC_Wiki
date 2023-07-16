@@ -5,6 +5,8 @@ title: 手动安装
 
 由于可能的网路问题，本次教程选用Offical MelonLoader而不是LLC定制MelonLoader。
 
+有一位社区用户[@xiahuaXH](https://space.bilibili.com/40199664)为我们制作了详尽的手动安装指南。如果您需要更为直观的演示和解释，您可以参阅该[Bilibili视频](https://www.bilibili.com/video/BV19j411d7nx)。
+
 ## （可选）下载Watt Toolkit（原Steam++）
 我们在安装过程中需要访问Github。
 
