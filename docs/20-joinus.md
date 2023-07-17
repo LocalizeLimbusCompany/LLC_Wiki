@@ -63,8 +63,9 @@ title: 加入汉化组
 </details>
 
 ### 校对&润色
-我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。即便是作为校对的考核，我们本次仍借由翻译的形式进行。请独立翻译以下2段文本。您可以自由选择自己翻译的源语言，也可以比对其他语言来辅助您翻译。  
-请注意保留其中的**换行符**```\n```，并且**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)。
+我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。即便是作为校对的考核，我们本次仍借由翻译的形式进行。请独立翻译以下2段文本。您可以自由选择自己翻译的源语言，也可以比对其他语言来辅助您翻译。
+
+请注意保留其中的**换行符**```\n```；使用适合中文的**全角符号**；使用适合中文的**全角引号**而**不是**方引号；**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)。
 #### EN
 <details>
 若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
@@ -96,34 +97,32 @@ title: 加入汉化组
 ```
     
 **第二段**  
-```json
-    {
-      "id": 901027,
-      "name": "",
-      "subDesc": "",
-      "desc": "Oh, how blue this is.\n\nThe pure hue of blue\nallows nothing to approach.\n\nWhen you try to go near, your body is pushed away.\nAnd yet, it is so, so blue.\n\nYou wish to have that color.\n\nThe irresistible allure\nis almost tearing you apart.",
-      "options": [
-        {
-          "message": "Forward.",
-          "result": [
-            "Blue.\n\nIt’s blue.\n\nWe’re blue.\n\nI’m blue too.\n\nDEEPYETFAINTGLOOMYYETMERRYFRIGIDYET\nWARMSHARPYETSOFTCOOLYETSWELTERING"
-          ]
-        },
-        {
-          "message": "Backward.",
-          "result": [
-            "Alas, we are but impurities.\n\nTo be truly blue,\nthe one with the true blue\nmust be left alone in one’s blueness.\n\nWe were bounced off.\n\nA strange, uplifting aura\nshrouded us."
-          ]
-        },
-        {
-          "message": "Take your leave.",
-          "result": [
-            "You gathered your wits and turned away.\n\nYou mustn’t fall for its temptation.\n\nYou will keep your eyes away from it,\nand forget that you ever saw such a thing."
-          ]
-        }
-      ]
-    },
-```
+Dongrang no longer feels pity for test subjects.
+
+Even if his technology isn't recognized...  
+Even when he thinks of the yellow calf in his hometown...  
+He isn't sad anymore.
+
+"The past is all useless. I'll burn it all."
+
+"And Yi Sang, I'd like you gone as well."
+
+Dongrang begins to rush at Yi Sang.
+
+——————
+
+"I really shouldn't be wasting my time like this."
+
+Coming to a sudden realization, Dongrang stopped in place.  
+And he looked at the ceiling as though he was looking up at stars in the sky.
+
+"At this very moment... I'm losing out for each second it spends without crying."
+
+"The opportunities and time to change the world... are scattering."
+
+Dongrang then glared with bloodshot eyes.
+
+"Yi Sang... It's you, you're the only one who needs to go for this to be over!"
 </details>
 
 #### JP
@@ -157,34 +156,32 @@ title: 加入汉化组
 ```
     
 **第二段**  
-```json
-    {
-      "id": 901027,
-      "name": "",
-      "subDesc": "",
-      "desc": "ああ、これはあまりにも青い。\n\nこの純粋な青さは\nいかなるものも近寄せない。\n\n近づこうとするほど体が押し返される。\nしかし、それはあまりにも青い。\n\n青くなりたい。\n\nあまりにも強い衝動に\n身体が裂けてしまいそうだ。",
-      "options": [
-        {
-          "message": "進む。",
-          "result": [
-            "青い。\n\n青い。\n\n私たちも青い。\n\n私も青い。\n\nこくもうすくゆううつながらもゆかいでさむくも\nあつくするどくもやわらくすずしくもむしあつい"
-          ]
-        },
-        {
-          "message": "押し返される。",
-          "result": [
-            "しかし、私たちは不純物だ。\n\n本当に青くなりたいのなら\n真の青さを持ったものを\n青さとすべきだ。\n\n私たちはそのまま弾き返された。\n\nなんだかよく分からない高揚感が\n私たちを包み込んだ。"
-          ]
-        },
-        {
-          "message": "急いで離れる。",
-          "result": [
-            "正気を取り戻して目を背けた。\n\nあれに引っ張られていけない。\n\nあんなものを見ることも、\n見た記憶さえ残してはいけない。"
-          ]
-        }
-      ]
-    },
-```
+ドンランは、これ以上実験されるものたちを可哀想に思わない。
+
+自分の技術が認められなくても…。  
+故郷に残されたヌロンイのことを考えても…。 
+もう悲しくないんだ。
+
+「過去は全部役に立たない。全部燃やして消すんだ。」
+
+「イサン、君もその程度にして消えてほしいな。」
+
+ドンランはイサンへ向かって疾走し始める。
+
+——————
+
+「こんな風に時間を浪費している場合じゃないのに。」
+
+ドンランはふと気づいたかのように、その場で立ち止まった。  
+そしてまるで、空の星でも見上げるように天井を眺めたんだ。
+
+「今この時にも…あれが泣いてくれない分だけ損をしている。」
+
+「世の中を変えられる機会と時間が…散り失せてるんだ。」
+
+ドンランは血眼で睨み付けてきた。
+
+「イサン…お前さえ、お前さえ消えればそれで終わりじゃないか！」
 </details>
 
 #### KR
@@ -218,35 +215,32 @@ title: 加入汉化组
 ```
 
 **第二段**  
-```json
-    {
-      "id": 901027,
-      "name": "",
-      "subDesc": "",
-      "desc": "아아, 이것은 너무나 파랗다.\n\n이 순수한 푸르름은 그 무엇도\n가까이 오게 두지 않는다.\n\n다가가고자 할수록 몸이 밀려난다.\n그러나 그것은 너무나 파랗다.\n\n파랗고 싶어진다.\n\n너무나 강한 이끌림에\n몸이 찢겨나갈 것만 같다.",
-      "options": [
-        {
-          "message": "나아간다.",
-          "result": [
-            "파랗다.\n\n파랗다.\n\n우리도 파랗다.\n\n나도 파랗다.\n\n짙고도연하고울적하고도유쾌하고시리고도따뜻\n하고날카롭고도부드럽고서늘하면서도후덥하다"
-          ]
-        },
-        {
-          "message": "밀려난다.",
-          "result": [
-            "그러나 우리는 불순물이다.\n\n진정 파랗고 싶다면\n진정한 푸르름을 가진 것을\n푸름으로 두어야 한다.\n\n우리는 그대로 튕겨 나왔다.\n\n무언가 모를 고양감이\n우리를 감싸 안았다."
-          ]
-        },
-        {
-          "message": "서둘러 떠난다.",
-          "result": [
-            "정신을 바르게 하고 눈을 피했다.\n\n저것에 이끌려서는 안 된다.\n\n저런 것을 보는 것도,\n보았던 기억조차도 남겨서는 안 된다."
-          ]
-        }
-      ]
-    },
-```
+동랑은 더 이상 실험 당하는 것들을 가여워 하지 않아.
 
+자신의 기술이 인정받지 못해도…  
+고향에 남겨진 누렁이를 생각해도…  
+더는 슬프지 않지.
+
+"과거는 전부 쓸모 없어. 모두 태워 없애겠어."
+
+"이상, 너도 그만 사라져 줬으면 좋겠어."
+
+동랑은 이상을 향해 질주하기 시작해.
+
+——————
+
+"이렇게 시간 낭비하고 있을 때가 아닌데."
+
+동랑은 문득 깨달았다는 듯, 그 자리에 우뚝 멈춰섰어.  
+그리고 마치, 하늘의 별이라도 올려다 보듯 천장을 바라보았지.
+
+"지금 이 시간에도… 저것이 울어주지 않는 만큼 손해를 보고 있어."
+
+"세상을 바꿀 수 있는 기회와 시간이… 흩어지고 있다고."
+
+동랑은 핏발 선 눈으로 노려보았지.
+
+"이상… 너만, 너만 사라지면 끝날 일이잖아?!"
 </details>
 
 ### 打轴
