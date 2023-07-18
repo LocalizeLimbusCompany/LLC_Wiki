@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Localize Limbus Company',
-  tagline: '都市零协会汉化组 Localize Everything',
+  tagline: '都市零协会汉化组(LLC)',
   url: 'https://zxp123.eu.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
