@@ -1,0 +1,14 @@
+{
+    "position": 15,
+    "label": "社区周边",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "社区周边"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+  }
