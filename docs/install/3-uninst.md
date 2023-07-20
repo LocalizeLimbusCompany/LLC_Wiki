@@ -9,7 +9,7 @@ title: 卸载汉化
 ![image](/img/page/settingschn.png)
 
 ## 使用工具箱卸载汉化
-[V0.4.0版本](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.4.0)(蓝绿色)及以上的安装工具箱均内置了删除汉化补丁的功能。  
+[V0.4.0版本](https://www.zeroasso.top/docs/install/autoinstall#%E4%B8%8B%E8%BD%BD-%E5%B7%A5%E5%85%B7%E7%AE%B1)(蓝绿色)及以上的安装工具箱均内置了删除汉化补丁的功能。  
 您可以通过该功能一键卸载汉化模组，以方便您重装或使用原版游戏。
 
 ## 手动卸载汉化
