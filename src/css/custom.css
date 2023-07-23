@@ -30,12 +30,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* 删去无意义代码，该类作为不使用组件时可以使用的类 */
 .buttonDownload {
-    height: 46px;
     padding: 10px 24px;
-    color: #2e8555;
-    font-size: 16px;
     line-height: 46px;
+    font-size: 16px;
+    color: #2e8555;
     border: 1px solid #2e8555;
     border-radius: 6px;
 }

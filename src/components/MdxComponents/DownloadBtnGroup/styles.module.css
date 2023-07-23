@@ -1,0 +1,18 @@
+.buttonDownload-group{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.buttonDownload-group .buttonDownload{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 226px;
+  padding: 10px 24px;
+  font-size: 16px;
+  color: #2e8555;
+  border: 1px solid #2e8555;
+  border-radius: 6px;
+}
