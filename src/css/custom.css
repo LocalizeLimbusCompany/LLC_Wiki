@@ -31,11 +31,10 @@
 }
 
 .buttonDownload {
-    height: 46px;
     padding: 10px 24px;
-    color: #2e8555;
-    font-size: 16px;
     line-height: 46px;
+    font-size: 16px;
+    color: #2e8555;
     border: 1px solid #2e8555;
     border-radius: 6px;
 }
