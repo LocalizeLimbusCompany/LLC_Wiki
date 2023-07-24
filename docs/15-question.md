@@ -6,8 +6,9 @@ title: 常见问题
 ### Failed to initialize MelonLoader: LoadLibraryExW Failed
 很遗憾，我们无法复现更无法解决此问题，这并非模组的问题，而是 MelonLoader 导致的，它甚至不会生成日志。此问题**疑似**是由于以下原因：
 - 路径中包括中文，特殊字符
+
 如果您遇到了这个问题，只能祈祷了。
-MelonLoader 追踪此问题的 (Issue #497)[https://github.com/LavaGang/MelonLoader/issues/497]
+MelonLoader 追踪此问题的 [Issue #497](https://github.com/LavaGang/MelonLoader/issues/497)
 
 ### 我更新了模组，但翻译没更新？
 您可能在我们刚更新没多久后使用了我们的纽约服务器下载模组文件。纽约服务器使用了CDN网络，这将会导致您从其上下载的文件带有**一些延迟**。  
