@@ -14,6 +14,7 @@ title: Workspace
 请您加入“编辑中”字样，如```x编辑中.txt```让我们知道您正在使用它。  
 待您完成后再将其重命名为正确格式
 - 请您不要更改“存档-勿动”文件夹中的内容
+- 您可以自由创建文件，但您可能无法自行删除文件或文件夹。此时，您可以将其重命名为```需删除```并于群内联系。
 
 [**进入工作区**](https://n07w1-my.sharepoint.com/:f:/g/personal/northwind_n07w1_onmicrosoft_com/EtQ13eyrLhRHj0o5QfFrAP0Bh0rsJAHy_rDOTaOcOIwwfw?e=kP0iYX)
 
