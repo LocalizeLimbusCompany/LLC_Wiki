@@ -16,6 +16,6 @@ title: Workspace
 - 请您不要更改“存档-勿动”文件夹中的内容
 - 您可以自由创建文件，但您可能无法自行删除文件或文件夹。此时，您可以将其重命名为```需删除```并于群内联系。
 
-[**进入工作区**](https://n07w1-my.sharepoint.com/:f:/g/personal/northwind_n07w1_onmicrosoft_com/EtQ13eyrLhRHj0o5QfFrAP0Bh0rsJAHy_rDOTaOcOIwwfw?e=kP0iYX)
+[**点击此处进入工作区**](https://n07w1-my.sharepoint.com/:f:/g/personal/northwind_n07w1_onmicrosoft_com/EtQ13eyrLhRHj0o5QfFrAP0Bh0rsJAHy_rDOTaOcOIwwfw?e=kP0iYX)
 
 **请勿外泄零协会的任何内部链接和密码。感谢您的维护**
