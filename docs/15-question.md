@@ -1,8 +1,8 @@
 ---
-title: 常见问题
+title: 模组常见问题
 ---
 
-## 补丁相关问题
+## 模组相关问题
 ### Failed to initialize MelonLoader: LoadLibraryExW Failed
 很遗憾，我们无法复现更无法解决此问题，这并非模组的问题，而是 MelonLoader 导致的，它甚至不会生成日志。此问题**疑似**是由于以下原因：
 - 路径中包括中文，特殊字符
@@ -81,6 +81,17 @@ MelonLoader 追踪此问题的 [Issue #497](https://github.com/LavaGang/MelonLoa
 这时，您可以尝试**加速**GitHub。**请尝试以任何方式(打开/关闭您已有的加速器)更改您的网络环境**。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
 > 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
 
+### LoadLibraryExW failed
+![image](/img/page/exwfail.png)
+
+引起这个问题的原因和解决方法如下：
+- 您的汉化安装(游戏)路径内存在**汉字**或其他非ASCII字符
+  - 解决方法：更换游戏安装位置，使路径内无**汉字**或其他非ASCII字符
+- 您的系统因为特定无法解决的原因与MelonLoader不兼容
+  - 这是一个系统问题，也许只能通过重装(一个正常/主流的)系统解决。
+
+在[XiaHuaXH](https://github.com/XiaHuaXH)的帮助下，我们已经深入研究此问题。除了知晓这与系统兼容性有关外，目前仍无法复现或准确定位本问题。
+
 ### 打开游戏后控制台弹出，但稍后闪退，无错误弹窗
 这是因为我们的模组框架(MelonLoader)必须要在启动时连接远程提供的API，但**未能连接成功**造成的。  
 MelonLoader是另一个开源社区项目，而我们**无法**对启动连接API这一行为作出改动。因此，解决本问题的唯一方法就是**解决网络问题**。
@@ -97,7 +108,7 @@ MelonLoader是另一个开源社区项目，而我们**无法**对启动连接AP
 5. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
 6. 重装系统(慎用，但有解决问题的先例)
 
-## 汉化相关问题
+## 体验相关问题
 ### 汉化文字不完整——口口口
 导致汉化文字不完整的原因仅有字库安装不正确这一唯一原因。字库是您在Mods文件夹下找到的tmpchinesefont文件。
 
