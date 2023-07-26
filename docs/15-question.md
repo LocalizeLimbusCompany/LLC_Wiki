@@ -77,14 +77,18 @@ title: 模组常见问题
 ### LoadLibraryExW failed
 ![image](/img/page/exwfail.png)
 
-这并非模组的问题，而是 MelonLoader 导致的，它甚至不会生成日志。此问题**疑似**是由于以下原因：
+这并非模组的问题，而是 MelonLoader 导致的，它甚至不会生成日志。此问题是由于以下原因造成的：
 - 您的汉化安装(游戏)路径内存在**汉字**或其他Unicode字符
   - 解决方法：更换游戏安装位置，使路径内无**汉字**或其他Unicode字符
 - 您的系统因为特定无法解决的原因无法启动MelonLoader
-  - (可能的)解决方法：这是一个系统问题，也许只能通过重装(一个正常/主流的)系统解决。**我们不能确定是否有更加稳健的解决方法，因此我们建议您不要轻易重装系统。**
+  - 解决方法：检查以下基础运行环境是否安装，如果没有，则点击链接安装：
+    - [.NET Framework 3.5 Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=21)
+    - [.NET Framework 4.7.2 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+    - [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+    - [.NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0#runtime-6.0.15)
+    - Microsoft Visual C++ 2015-2019 Re-distributable [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
-在[XiaHuaXH](https://github.com/XiaHuaXH)的帮助下，我们已经深入研究此问题。除了知晓这与系统兼容性有关外，目前仍无法复现或准确定位本问题。  
-可查阅MelonLoader上追踪此问题的[Issue #497](https://github.com/LavaGang/MelonLoader/issues/497)
+[XiaHuaXH](https://github.com/XiaHuaXH)定位了此问题的原因，此问题在他之前一直被视为无解，感谢他的支持。
 
 ### 打开游戏后控制台弹出，但稍后闪退，无错误弹窗
 这是因为我们的模组框架(MelonLoader)必须要在启动时连接远程提供的API，但**未能连接成功**造成的。  
