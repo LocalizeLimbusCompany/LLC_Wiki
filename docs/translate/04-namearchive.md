@@ -2,6 +2,15 @@
 title: 命名归档
 ---
 
+## 主要策略
+关于[标点符号](https://www.zeroasso.top/docs/translate/punctuation)、[风格](https://www.zeroasso.top/docs/translate/babystyle)以及[工具的使用](https://www.zeroasso.top/docs/translate/Par)等策略详见对应页面。
+
+### 技能描述与实际效果有差异 的处理策略
+<details>
+
+![image](/img/page/diffStrat.png)
+</details>
+
 ## 人物或人格
 
 ### 经理
