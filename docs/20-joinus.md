@@ -14,59 +14,22 @@ title: 加入都市零协会！
 请您**先加入我们的审核群**。
 
 欢迎您关注零协会，我们很希望在今后能共事。  
-请根据您自己心仪的职位阅读本文档，完成审核试题后将答案私信提交给相应的管理员。每一位管理员的群名片(和/或群头衔上)后都有其负责审核的职位，小心不要看错了。  
-若您有任何额外问题，则可在审核群内直接说出来。
+请根据您自己心仪的职位阅读本文档，完成审核试题后将答案**私信提交给相应的管理员**。每一位管理员的**群名片(和/或群头衔上)后都有其负责审核的职位**。  
+如果没有及时回复，那可能是对应老师暂时不在。您可以在审核群内**告知其他审核老师**，让我们帮助您联系。  
+若您有任何额外问题，则可在审核群内直接提出，或通过私聊反映。
 
 ### 翻译
-请在不借助外力、不使用机翻、允许查阅字典的情况下完成以下内容的翻译。会哪种语言就翻译哪个，不用都翻译。  
-请注意保留原文中的**换行符**```\n```。  
-**请保证您的符号使用符合我们的**[**符号规范**](https://www.zeroasso.top/docs/translate/punctuation)  
-如果您对自身的水平有自信，也可尝试校对题目。
-#### ~~EN~~ 很抱歉，目前暂停英翻审核。您可以试试校对！
-<details>
+当前，翻译与校对的**入组题目已经合并统一**。  
+若您希望成为零协会翻译或校对，请您翻译我们提供的原文，并**告知对应审核老师您希望成为翻译还是校对**。
 
-> 第一部分：  
-> "A heart torn into thousands of pieces must be kept from all eyes, thus it burrowed into the ground and tangled itself. Yet, someone has to pull up these thorny roots, as there is no wound that can remain unearthed. The Sinners gave each other looks. Being coiled in piercing, sharp pain was something to avoid even in one’s dreams."
-> 
-> 第二部分：  
-> A field of white, yet somehow dark flowers is ahead.\nThe sky is red, the air windy and bleak.\n\nOne giant flower flutters amidst the field.\n\nIt resembles a person waving from afar. You wave out of nostalgia.\n\nIn an instant, all the flowers went awash with red,\nsimultaneously turning to face you.\n\nAfter staring into us for a little while,\ntheir red petals flew at us.\n\nIt was like a punishment for making a half-hearted gesture.\n\n
-> 
-> 第三部分：  
-> You don’t fear the pointed gun.\n\nEven if they were to pull the trigger…\n\nIt doesn’t matter how many times the hammer strikes.\n\nYou know the bullet will hit that person’s head.\n\nIn the blink of an eye,\nthe gun aimed at their own temple,\nand soon fired.\n\nThe person was gone,\nleaving an ashen coat on the floor.
+各个语言的翻译是零协会最重要的组成部分，是参与日常翻译活动的主力。零协会翻译模组因此存在。  
+我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。  
 
-</details>
+请在不借助外力、不使用机翻、允许查阅字典的情况下完成以下内容的翻译。  
+您可以**自由选择自己翻译的源语言**(三语其一)，也可以**比对其他语言**来辅助您翻译。  
+请注意保留其中的**换行符**```\n```；使用适合中文的**全角符号**；使用适合中文的**全角引号**而**不是**方引号；**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)；**请保证您的符号使用符合我们的**[**符号规范**](https://www.zeroasso.top/docs/translate/punctuation)。
 
-#### JP
-<details>
-
-> 幻想体  
-> ロボトミーコーポレーションのエネルギー源
-> 
-> ロボトミーコーポレーションでは、幻想体という名前のモノを利用してエネルギーを生産していました。にわかに、そして急速にロボトミーコーポレーションは没落し、幻想体と一部の職員は身動きが取れないまま閉じ込められてしまいました。
-> 
-> 閉じ込められた社員遺族に対する見舞金支給の有無は大した問題ではありませんが、ここで問題になるのは幻想体です。閉じ込められた職員をランチにしながら、まだ支部のどこかで幻想体たちが徘徊しています。幻想体から生産されたエンケファリン（今更ですが、あの名高いエンケファリン燃料の原産地がまさに幻想体なのでした！）を回収しなければならないということも忘れないでください。
-> 
-> [注意] - 幻想体図鑑は提供されず、逆に自ら制作して会社に報告することになります。また、許可無くエンケファリンを失敬する支離滅裂な悪行は厳重に処罰されます。
-
-</details>
-
-#### KR
-<details>
-
-> E.G.O  
-> 환상체로부터 비롯된 유용한 도구
-> 
-> 로보토미 코퍼레이션엔 환상체로부터 무기와 방어구까지 추출할 수 있는 기술도 있었습니다. 소문에 따르면, 전투 경험이 전무한 자라도 자연스럽게 사용법을 알게 되었으며, 그 위력의 잠재성은 컸다고 합니다. (예전에 이름 날리던 해결사인 [보안 검열]이 E.G.O를 사용했다는 소문도 있습니다만... 그 명성은 이제는 옛말일 뿐이겠죠.) 안타깝게도 본사에 있던 E.G.O들은 모두 소실되었지만 다른 지부들엔 아직 남아있는 것으로 확인했습니다. 이런 위험천만한 대량 살상력이 잠재된 무기들을 지하에 내버려 둬서는 곤란하죠! 전문적으로 훈련이 된 우리 직원들이 안전하게 회수할 예정입니다.
-> 
-> [주의] - 회사 일을 돕겠다는 오지랖으로라도 수감자들이 지급된 것 외에 다른 E.G.O를 건드릴 상황은 만들지 않는 게 안전할 겁니다.
-
-</details>
-
-### 校对&润色
-我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。即便是作为校对的考核，我们本次仍借由翻译的形式进行。请独立翻译以下2段文本。您可以自由选择自己翻译的源语言，也可以比对其他语言来辅助您翻译。
-
-请注意保留其中的**换行符**```\n```；使用适合中文的**全角符号**；使用适合中文的**全角引号**而**不是**方引号；**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)。
-#### EN
+#### EN (英语翻译暂停招收 - 您可以尝试校对，题目相同)
 <details>
 若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
 
