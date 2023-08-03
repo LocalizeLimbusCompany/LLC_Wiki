@@ -15,7 +15,7 @@ title: 零协会匿名提问箱
   - 建议！可以是关于汉化、扩展活动和任何事情！
     - e.g. 直播建议；游戏服务器；模组新功能；周边制作
 
-> 本提问箱由[NekoBox](https://github.com/NekoWheel/NekoBox)提供，感谢NekoBox的开发者们。  
+> 本提问箱由[NekoBox](https://github.com/NekoWheel/NekoBox)提供。NekoBox是一个开源匿名提问箱，我们非常感谢NekoBox的开发者们。  
 > 您可以在自己的服务器上部署NekoBox，或使用NekoBox提供的服务器。  
 > 目前，NekoBox的服务器、CDN开销均为开发者一人承担。如果愿意，您可以[支持NekoBox](https://box.n3ko.cc/sponsor)！
 
