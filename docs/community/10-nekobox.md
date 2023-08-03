@@ -19,7 +19,5 @@ title: 零协会匿名提问箱
 > 您可以在自己的服务器上部署NekoBox，或使用NekoBox提供的服务器。  
 > 目前，NekoBox的服务器、CDN开销均为开发者一人承担。如果愿意，您可以[支持NekoBox](https://box.n3ko.cc/sponsor)！
 
-<big>
-[点击此处进入零协会的NekoBox提问箱](https://box.n3ko.cc/_/zero_asso)  
-</big>
+[**点击此处进入零协会的NekoBox提问箱**](https://box.n3ko.cc/_/zero_asso)  
 可直接访问
