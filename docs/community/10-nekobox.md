@@ -21,3 +21,9 @@ title: 零协会匿名提问箱
 
 [**点击此处进入零协会的NekoBox提问箱**](https://box.n3ko.cc/_/zero_asso)  
 可直接访问
+
+<details>
+
+p.s. NekoBox的[GitHub仓库](https://github.com/NekoWheel/NekoBox)在[NekoWheel组织](https://github.com/NekoWheel)名下。NekoWheel组织的简介是：Making Wheels with Love.  
+用爱“造轮子”，我们非常喜欢。
+</details>
