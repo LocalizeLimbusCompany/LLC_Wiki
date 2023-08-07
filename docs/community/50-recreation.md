@@ -19,9 +19,9 @@ title: 零协原创/二创放置区
 作者：Melo
 
 ### A与B - Live
-![image](/img/page/recreation/a&bLiveSketch.png)
+![image](/img/page/recreation/a&bLiveSketch.jpg)
 
-![image](/img/page/recreation/a&bLive.png)
+![image](/img/page/recreation/a&bLive.jpg)
 
 作者：玉佩
 
