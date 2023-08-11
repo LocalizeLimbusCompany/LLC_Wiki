@@ -16,7 +16,7 @@ title: 卸载汉化
 
 :::caution
 
-以下记述的手动卸载方式为MelonLoader旧版的手动卸载方式。MelonLoader版本即将停止支持。请使用**最新版**安装器下载BepInEx版本。
+以下记述的手动卸载方式为MelonLoader旧版的手动卸载方式。MelonLoader版本即将停止支持。请使用**最新版**工具箱中的卸载功能。
 
 :::
 
