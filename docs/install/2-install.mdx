@@ -2,94 +2,98 @@
 title: 手动安装
 ---
 
-:::caution
+:::tip
 
-以下记述的手动安装方式均为MelonLoader旧版的手动安装方式。MelonLoader版本即将停止支持。请使用**最新版**安装器下载BepInEx版本。
+以下记述的手动安装方式已更新，且**仅**适合\_BepInEx\_版本的模组。MelonLoader版本的模组将很快停止支持。
 
 :::
 
 import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnGroup";
 
-如果你自动安装出现了问题，则你应该使用手动安装方式。
-
-由于可能的网路问题，本次教程选用Offical MelonLoader而不是LLC定制 MelonLoader。
-
-有一位社区用户[@xiahuaXH](https://space.bilibili.com/40199664)为我们制作了详尽的手动安装指南。如果您需要更为直观的演示和解释，您可以参阅该[Bilibili视频](https://www.bilibili.com/video/BV19j411d7nx)。
+如果自动安装出现了问题，则您可以选择手动安装方式。
 
 ## （可选）下载 Watt Toolkit（原Steam++）
 
-我们在安装过程中需要访问Github。
+我们已经在标准安装流程中去除了对GitHub的依赖。不过，若您选择从GitHub获取文件，那么您在安装过程中依然需要访问Github。
 
-如果你有全局代理（梯子）等工具则可以无视，如果你没有，请在 [Watt Toolkit官网](https://steampp.net/) 下载并解压。
-
+如果你有全局代理（梯子）等工具则可以无视，如果你没有，请在 [Watt Toolkit官网](https://steampp.net/) 下载并解压。  
 打开后勾选Github，再点击加速。在接下来的安装步骤中就别关上了。
 
 ## 下载 .Net 6.0
 
-模组的运行离不开 .Net 6.0 环境。
-
+模组的运行离不开 .Net 6.0 环境。  
 请务必进入 [此链接](https://download.visualstudio.microsoft.com/download/pr/4a725ea4-cd2c-4383-9b63-263156d5f042/d973777b32563272b85617105a06d272/dotnet-sdk-6.0.406-win-x64.exe) 下载 .Net 6.0 安装包并运行。
 
 ## 下载组件
 
-你需要且**必须**下载以下压缩包。
+您需要且**必须**下载以下压缩包。  
+注意，如果你使用**Github Release**下载文件，切勿下载**Source code**或**带有OTA的压缩包**，你应该下载类似于**LimbusLocalize\_BIE\_v0.x.x.7z**的文件。
 
-注意，如果你使用**Github Release**下载文件，切勿下载**Source code**或**带有OTA的压缩包**，你应该下载类似于**LimbusLocalize_v0.x.x.7z**的文件。
+### BepInEx (a.k.a BIE)
 
-### MelonLoader
+:::info
+
+LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用到的输出程序集。因此，我们推荐您优先选用我们提供的BepInEx以减少额外下载带来的网络问题。  
+如果您选择直接从BepInEx获取框架，您应该选择**支持IL2CPP的_Bleeding Edge Build_**，而不是直接从GitHub获取其释放。(2023/8/12)
+
+:::
 
 <DownloadButtonGroup
   buttons={[
     {
-      href: "https://dl.determination.top/files/MelonLoader.x64.zip",
+      href: "https://dl.determination.top/files/BepInEx-IL2CPP-x64.7z",
       text: "OneDrive For Business",
     },
     {
-      href: "https://llc.determination.top/files/MelonLoader.x64.zip",
+      href: "https://llc.determination.top/files/BepInEx-IL2CPP-x64.7z",
       text: "美国Las Vegas服务器",
     },
   ]}
 />
 
-[Cloudflare CDN](https://limbus.determination.top/files/MelonLoader.x64.zip) | [Github Release](https://github.com/LavaGang/MelonLoader/releases/latest)
+[Github Release](https://github.com/LocalizeLimbusCompany/BepInEx_For_LLC/releases/latest)
 
 ### 字体文件
 
 <DownloadButtonGroup
   buttons={[
     {
-      href: "https://dl.determination.top/files/tmpchinesefont.7z",
+      href: "https://dl.determination.top/files/tmpchinesefont_BIE.7z",
       text: "OneDrive For Business",
     },
     {
-      href: "https://llc.determination.top/files/tmpchinesefont.7z",
+      href: "https://llc.determination.top/files/tmpchinesefont_BIE.7z",
       text: "美国Las Vegas服务器",
     },
   ]}
 />
 
-[Cloudflare CDN](https://limbus.determination.top/files/tmpchinesefont.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest)
+[Cloudflare CDN](https://limbus.determination.top/files/tmpchinesefont_BIE.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest)
+
+注：若从GitHub下载，您需要自行找到该文件应放置的位置，而不是直接解压至根目录。
 
 ### 模组本体
 
 <DownloadButtonGroup
   buttons={[
     {
-      href: "https://dl.determination.top/files/LimbusLocalize_FullPack.7z",
+      href: "https://dl.determination.top/files/LimbusLocalize_BIE_FullPack.7z",
       text: "OneDrive For Business",
     },
     {
-      href: "https://llc.determination.top/files/LimbusLocalize_FullPack.7z",
+      href: "https://llc.determination.top/files/LimbusLocalize_BIE_FullPack.7z",
       text: "美国Las Vegas服务器",
     },
   ]}
 />
 
-[Cloudflare CDN](https://limbus.determination.top/files/LimbusLocalize_FullPack.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/latest)
+[Cloudflare CDN](https://limbus.determination.top/files/LimbusLocalize_BIE_FullPack.7z) | [Github Release](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/latest)
+
+注：若从GitHub下载，请选择BIE版全量包：`LimbusLocalize_BIE_v0.5.13.7z`
 
 ## 安装 7zip（可选）
 
-如果你下载完刚刚的压缩包，发现你的计算机无法识别.7z文件，则你需要安装7zip 。
+如果你下载完刚刚的压缩包，发现你的计算机无法识别.7z文件，则你需要安装7zip。
 
 你可以在 [7-zip 官网](https://7-zip.org/a/7z2301-x64.exe) 下载安装包。
 
@@ -97,22 +101,21 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 打开你的steam，进入库，右键Limbus Company，点击浏览本地文件。
 
-![Step1](/img/page/install-step1.webp)
+将BepInEx，零协会汉化补丁主体和字体的压缩包拖入这个目录。
 
-将MelonLoader，零协会汉化补丁主体和字体的压缩包拖入这个目录。
-
-![Step2](/img/page/install-step2.webp)
-
-将所有压缩包解压，请务必注意，不要选择新建一个目录的解压，应选择解压至当前文件夹（360压缩）/提取到当前位置（7zip），解压完了就可以把这几个压缩包删了，不删也没事，不影响。
-
-![Step3](/img/page/install-step3.webp)
+将所有压缩包解压，请务必注意：**不要选择新建一个目录的解压，应选择解压至当前文件夹(360压缩) 或 提取到当前位置(7zip)**。  
+解压完成后，建议您删除压缩包。
 
 ## 完成
 
-进入游戏（记得挂着 Watt Toolkit），你会看见一个西瓜跳来跳去，如果你看了注意事项且按照本指南操作，正常情况不会有报错，等待至启动游戏就行。
-![Step4](/img/page/install-step4.webp)
+您的游戏根目录看起来应该是这样的：
 
-## 出现问题？
+![image](/img/page/BIEfiles.png)
+
+现在点击进入`\BepInEx\plugins`文件夹，应该有三个文件(夹)，分别为：`Localize`、`LimbusLocalize_BIE.dll`、`tmpchinesefont`。  
+如果您的游戏文件能够对应以上体系，那么您的汉化不应该出现问题。
+
+## 仍然出现(无法解决的)问题？
 
 - 请**优先参考**[**常见问题**](https://www.zeroasso.top/docs/question)页面中的提示。
-- [向我们反馈问题](/docs/callus)。
+- 或者，[向我们反馈问题](/docs/callus)。
