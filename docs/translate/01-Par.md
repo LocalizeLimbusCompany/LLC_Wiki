@@ -26,6 +26,10 @@ description: 关于ParaTranz的策略和教程
 
 首先你需要知道，Paratranz能且**仅能**通过GitHub账户登录。不过，除首次登录需要和GitHub链接畅通以外，之后自动登录时**无需**加速GitHub。
 
+当你认为你已经准备好之后，[加入我们的Paratranz项目](https://paratranz.cn/projects/6860)  
+请注意，申请时要带上你的**昵称和职位**，如：`奈芙 英翻`或`铅笔 韩校`，让我们认出你。  
+**如果您仍未加入零协会，请先[加入我们](https://www.zeroasso.top/docs/joinus)再申请Paratranz项目。我们不会通过任何外部人员的申请**
+
 ## 设置易读昵称
 请记得在**GitHub主页**设置一个让我们可以根据**QQ群内**昵称辩**认出你**的昵称。
 
