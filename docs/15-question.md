@@ -48,18 +48,18 @@ title: 模组常见问题
 6. 重装系统(慎用，但有解决问题的先例)
 
 ## 体验相关问题
-<!--
-### 汉化文字不完整——口口口
-导致汉化文字不完整的原因仅有字库安装不正确这一唯一原因。字库是您在Mods文件夹下找到的tmpchinesefont文件。
+
+### 汉化文字不完整：出现口口口
+导致汉化文字不完整的原因仅有字库安装不正确这一唯一原因。  
+您的模组框架已被正确安装并生效，因此这个问题很好修复。
 
 您可以：
-- 在确保网路通畅的情况下重启MelonLoader，使其自行完成配置。
-- 检查您的字库是否存在未更新的新版本。
-- 手动或自动重装tmpchinesefont。您可至[Release](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases)获取最新版的字库文件。
+- 在确保网路通畅的情况下使用安装器**重新安装**，使其自行完成配置。这通常对大多数人有效。
+- 手动或自动重装tmpchinesefont。  
+参考[字体文件](https://www.zeroasso.top/docs/install/install#%E5%AD%97%E4%BD%93%E6%96%87%E4%BB%B6)章节的下载链接，然后参考[解压](https://www.zeroasso.top/docs/install/install#%E8%A7%A3%E5%8E%8B)章节手动安装字库文件。
 
-如果您发现这个错误并没有大范围出现，而是在特定位置的**不**常用字出现了该问题，这很可能是我们的字库缺失了所需字体。这个问题仅能由我们解决，也一般会在您反馈后的下一个版本修复。如果您希望向我们反馈任何字库问题，请至[字库Issues](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/issues)提交一个新的Issue，简短叙述您缺失字体的位置和其前后的文本(最好有截图)来帮助我们查找该字。  
+如果您发现这个错误并没有大范围出现，而是在特定位置的**不**常用字出现了该问题，这很可能是我们的字库缺失了所需字体。我们可以有效解决此问题，也一般会在您反馈后的下一个版本修复。如果您希望向我们反馈任何字库问题，请至[字库Issues](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/issues)提交一个新的Issue，简短叙述您缺失字体的位置和其前后的文本(最好有截图)来帮助我们查找该字。  
 如果您不方便使用GitHub，试试[联系我们](https://www.zeroasso.top/docs/callus)！
--->
 
 ### 汉化模组引起的性能问题
 一般来说，我们的汉化模组不会对性能带来过高的影响。您受到的最主要影响应该是切换到**文字较多**的页面时出现延长的卡顿和响应迟滞。除此之外，我们的汉化模组不应该影响您在战斗以及剧情中的任何性能。  
