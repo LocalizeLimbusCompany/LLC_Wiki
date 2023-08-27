@@ -2,6 +2,8 @@
 title: 模组常见问题
 ---
 
+import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnGroup";
+
 ## 模组相关问题
 
 ### 安装后无汉化/汉化不生效
@@ -46,6 +48,51 @@ title: 模组常见问题
 4. 尝试重启
 5. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
 6. 重装系统(慎用，但有解决问题的先例)
+7. 如果以上这些**都无法解决你的问题**，参考下方的“文件覆盖”。
+
+### 解决方案：文件覆盖
+
+:::danger
+
+以下记叙的解决方法虽然能解决几乎全部的模组安装问题和网络问题，但在使用之前，请您确保我们提供的任何解决方法都无法**解决您的问题**或**使您可持续性的使用我们的工具箱**。  
+虽然我们会力可能及地对本方法提供支持，但请您明白：与此相比，使用**工具箱**显然是更加稳定且保守的安装方式。
+
+如果您选择采用以下方法，那么您只能**靠自己**了。
+
+:::
+
+<details>
+
+如果你无法使用工具箱 或 以上方法均不能解决您的问题：  
+那么请暂时放下工具箱，让我们一起手动来解决这个问题，让您即刻使用汉化模组。
+
+注：本方法**无法解决系统不兼容**等内生性问题。
+
+首先，删除您已安装的模组，以防残留损坏的文件。  
+（删除`winhttp.dll`, `doorstop_config.ini`, `BepInEx`, `dotnet` 四个文件或文件夹）
+
+请打开以下OneDrive链接，并阅读后续指引。
+
+<DownloadButtonGroup
+  buttons={[
+    {
+      href: "https://n07w1-my.sharepoint.com/:f:/g/personal/northwind_n07w1_onmicrosoft_com/ElVIKQVcHqtCj3a4NJjLdDUBMkVxSQ5S6TGQ0MzZlU1nBw",
+      text: "OneDrive For Business",
+    },
+  ]}
+/>
+
+您看到的是一位组员**本地**的、**正在正常使用**的、**已经初始化完毕**的、汉化模组的一份**在线副本**。  
+这份在线副本一般会在新版模组发布后的**12小时**内进行同步。因此，请您在最新版汉化**发布后至少等待24小时**(或收到我们发出的、可以使用此方式的确认)之后再使用此方式更新您的汉化模组。
+
+直接点击左上角 `Download`。您应该会下载一个**包含全部已列出文件的** zip 压缩包。  
+将压缩包内的全部文件与文件夹**置于你的 Limbus Company 游戏根目录**内。  
+使最终效果如下：
+
+![image](/img/page/BIEfiles.png)
+
+完成后请启动游戏，验证模组是否启动。
+</details>
 
 ## 体验相关问题
 
