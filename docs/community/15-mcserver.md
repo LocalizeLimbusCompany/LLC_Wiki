@@ -4,7 +4,7 @@ title: Minecraft服务器
 
 Minecraft 科技空岛
 
-使用整合包：[Aleph Machinery](https://www.mcbbs.net/thread-1196768-1-1.html)
+使用整合包：[Alpha Machinery](https://www.mcbbs.net/thread-1196768-1-1.html)
 
 游玩之前请您入群：
 <details>
