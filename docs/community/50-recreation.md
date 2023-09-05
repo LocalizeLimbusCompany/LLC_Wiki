@@ -26,7 +26,4 @@ title: 零协原创/二创放置区
 作者：玉佩
 
 ## 5
-![image](/img/page/recreation/a&bStage.jpg)
-
-## 6
 ![image](/img/page/recreation/drawguessBg.png)
