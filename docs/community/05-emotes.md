@@ -12,9 +12,10 @@ title: 零协会聊天表情上架
 
 ![image](/img/page/emotes_weixin.png)
 
-[***表情详情页跳转链接***](https://w.url.cn/s/AiogxAp#wechat_redirect)
+复制此短链接至微信内打开即可跳转到表情页：  
+`https://w.url.cn/s/AiogxAp#wechat_redirect`
 
-二维码如下
+或微信扫描如下二维码：
 
 ![image](/img/page/emotes_weixin_qr.png)
 
