@@ -2,9 +2,9 @@
 title: 零协会聊天表情上架
 ---
 
-本套表情共有十枚，为BiliBili充电专属表情。于BiliBili充电即可在BiliBili使用。
+本套表情**共有十枚**，为BiliBili充电专属表情。于BiliBili充电即可在BiliBili使用。
 
-我们的[数字内容支持者包](https://www.zeroasso.top/docs/community/patron)内含这些表情的无损原图。
+我们的[**数字内容支持者包**](https://www.zeroasso.top/docs/community/patron)内含这些表情的无损原图以及草稿、线稿。
 
 我们已将表情同步上传至微信，详见下文。
 
