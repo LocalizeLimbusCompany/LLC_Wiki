@@ -14,7 +14,7 @@ title: 零协会聊天表情上架
 
 [***表情详情页跳转链接***](https://w.url.cn/s/AiogxAp#wechat_redirect)
 
-二维码
+二维码如下
 
 ![image](/img/page/emotes_weixin_qr.png)
 
