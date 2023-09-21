@@ -5,7 +5,7 @@ title: 实体周边
 ## 亚克力5cm挂牌
 
 ### 柔造店铺链接
-[***小黑***]() | [***小白***]() <font color="red">**链接现不可用**</font>
+[***小黑***](https://nowhere.nothing)  |  [***小白***](https://nowhere.nothing) <font color="red">**链接现不可用**</font>
 
 ### 周边情况
 <details>
