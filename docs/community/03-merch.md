@@ -7,7 +7,7 @@ title: 实体周边
 ### 店铺链接
 [**专题首页链接**](https://huazuo.yinge.tech/pages/shop/index?id=46854)  
 单独链接： [**小黑**](https://huazuo.yinge.tech/pages/detail/index?id=3548286) | [**小白**](https://huazuo.yinge.tech/pages/detail/index?id=3721146)  
-我们使用了柔造周边定制平台，此为柔造官方店铺上架，可能因此要求您拥有微博账号才能登录。  
+我们使用了柔造周边定制平台，此为柔造官方店铺上架。您从网页打开链接，可能会要求您使用微博登录。**从微信内打开链接，即可用微信登录**。  
 下单前请**务必完整阅读**下方“介绍与情况”。
 
 ### 介绍与情况
