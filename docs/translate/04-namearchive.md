@@ -258,7 +258,7 @@ Lifetime Stew
   <img src="../../../img/page/c6bad41c-1a69-41d1-9adf-374ea92d9dcc.jpg"  style={{width:'45%',marginLeft: '10px'}}></img>
   <p></p>
 </div>
-在此，请首先容许考据者以一个韩翻的身份指出边狱英翻的一个失误。
+在此，请首先容许考据者以一个韩翻的身份结合英语原文指出一个知识点。
 
 该异想体的英文为basilisoup，曾一度在讨论中诱导我们来到了stone soup的故事上。
 但在看到韩语原文后，通过比对韩语所对应的发音，我们得出了该异想体的正确英文名字应该是：basilisoupk，即basili+soup+k。这是因为韩语将basilisk分为basilis+k，然后在中间借一个S加入soup成为一个合成词basilisoupk。
