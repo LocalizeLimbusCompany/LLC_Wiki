@@ -5,7 +5,8 @@ title: 实体周边
 ## 亚克力5cm挂牌
 
 ### 店铺链接
-[**小黑**](https://nowhere.nothing) | [**小白**](https://nowhere.nothing) <font color="red">**链接现不可用**</font>  
+[**专题首页链接**](https://huazuo.yinge.tech/pages/shop/index?id=46854)  
+单独链接： [**小黑**](https://huazuo.yinge.tech/pages/detail/index?id=3548286) | [**小白**](https://huazuo.yinge.tech/pages/detail/index?id=3721146)  
 此为柔造官方店铺上架。下单前请**务必完整阅读**下方“介绍与情况”。
 
 ### 介绍与情况
