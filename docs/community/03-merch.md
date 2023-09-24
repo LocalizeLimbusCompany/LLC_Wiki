@@ -38,4 +38,6 @@ title: 实体周边
 ![image](/img/page/merch/acrylic/2.png)
 </details>
 
+原作画师：[歌带鵐Melo](https://space.bilibili.com/1491249425)
+
 ## More Coming……
