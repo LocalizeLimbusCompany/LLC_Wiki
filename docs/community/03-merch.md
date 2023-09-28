@@ -21,6 +21,8 @@ title: 实体周边
 
 若您想要支持我们，还请优先考虑[ 爱发电 ](https://afdian.net/a/Limbus_zero)平台。我们也为在爱发电支持我们的小伙伴们准备了[ 数字可下载内容 ](https://www.zeroasso.top/docs/community/patron)。
 
+若图片加载较慢，您可选择查看[以下信息的BiliBili原帖](https://www.bilibili.com/read/cv26639368/)。
+
 ![image](/img/page/merch/acrylic/1.png)
 
 **镭射效果 GIF 实拍**
