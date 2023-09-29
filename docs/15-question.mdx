@@ -6,6 +6,15 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 ## 模组相关问题
 
+### 模组正常安装，但打开游戏无控制台弹出，不唤起BepInEx
+首先，请您务必确认您的模组**真的正常安装**，并且，确保您的系统真的兼容BepInEx。
+
+对此，我们提供两种基于多人经验的解决办法。
+- 使用“兼容模式”运行LimbusCompany  
+若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭兼容模式。就算不一直打开兼容模式，模组也应当能保持正常。
+- 等待。**这个问题有自行解决的倾向。**请您继续您的工作，并保持正常、规律的开关机。这个问题很有可能隔天便不复存在。  
+关于其他人通过等待解决问题的多个案例，请参考 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
+
 ### 基础链接已经关闭 或 发生错误
 您可能遇到了HttpClient自身缺陷带来的问题。
 
@@ -32,20 +41,15 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 若不符合，则说明您的汉化模组**安装不完整**。  
 我们认为，安装完整的汉化模组一般不会出现问题。
 
-首先请观察您的安装器的**设置页面**。安装器**默认**从```Onedrive For Business```下载。  
-但是，若您无法从该渠道下载，您目前有多种选择：
-- 首先，推荐您继续尝试使用```Onedrive For Business```下载。
-  - 至设置页面，手动点选从```Onedrive For Business```下载。
-  - 改变网络环境或使用网络加速服务，如[Watt Toolkit](https://steampp.net/)或代理服务。
-  - 再次尝试下载安装。
-- 其次，我们推荐您尝试从```拉斯维加斯服务器with CDN```下载。
-  - 请选择该项，然后至“安装页面”重新下载，下载完毕后查看您的游戏根目录文件是否符合上图。
-- 您也可以选择```从GitHub下载文件```。  
+自安装器`0.5.0`版本以来，安装器从数个国内通用网盘服务作为下载源进行下载。通常来说，(若您也在国内，那么)这些基于国内的服务应当是可用的。  
+但是，若您仍无法下载：
+- 您可以选择```从GitHub下载文件```。  
   - 请忽略左侧选项，并将右侧的“从GitHub下载文件”打开。
   - 然后，**确保您和GitHub的连接畅通**。
   - 若您遇到**相同错误**，那么这说明您**与GitHub的链接不畅**。**请尝试以任何方式(打开/关闭您已有的加速器)更改您的网络环境**。  
 这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
 > 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
+- 或者，请参考[手动安装](https://www.zeroasso.top/docs/install/install)或使用[文件覆盖方案](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)。
 
 ### 遇到其他疑难杂症？
 0. 请确保您已经下载了**最新版**的安装器。
