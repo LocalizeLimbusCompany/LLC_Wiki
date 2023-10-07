@@ -3,7 +3,7 @@ title: 边狱公司文件转移工具
 ---
 
 ## 获取
-<a href="https://dl.determination.top/files/%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8%E6%96%87%E4%BB%B6%E8%BD%AC%E7%A7%BB%E5%B7%A5%E5%85%B7.zip" class="buttonDownload">OneDrive For Business</a>
+<a href="http://81.70.83.185:5244/d/od/%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8%E6%96%87%E4%BB%B6%E8%BD%AC%E7%A7%BB%E5%B7%A5%E5%85%B7.zip" class="buttonDownload">OneDrive For Business</a>
 
 ## 目的
 注：出于共享和方便社区的目的，零协会仅以本方式传播本工具。零协会没有参与本工具的任何编写和制作过程。

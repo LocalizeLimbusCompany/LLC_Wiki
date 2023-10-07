@@ -27,4 +27,4 @@ title: 100%鲜橙汁角色模组
 ![image](/img/page/OJmod/cuties_03_03.png)
 ![image](/img/page/OJmod/cuties_03_05.png)
 
-当前版本下载链接：[Vtb_NuloAssociation_Songqingqiu.zip](https://dl.determination.top/files/Vtb_NuloAssociation_Songqingqiu.zip)
+当前版本下载链接：[Vtb_NuloAssociation_Songqingqiu.zip](http://81.70.83.185:5244/d/od/Vtb_NuloAssociation_Songqingqiu.zip)
