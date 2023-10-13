@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Localize Limbus Company',
   tagline: '都市零协会汉化组(LLC)',
-  url: 'https://zxp123.eu.org',
+  url: 'https://www.zerossso.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -33,6 +33,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
@@ -42,6 +44,17 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'novel',
+        path: 'novel',
+        routeBasePath: 'novel',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
     ],
   ],
   themeConfig:
