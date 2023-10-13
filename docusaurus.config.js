@@ -73,6 +73,8 @@ const config = {
             position: 'left',
             label: '主页',
           },
+          
+          {to: '/novel/mainpage', label: '小说', position: 'left'},
           {to: '/blog', label: '博客', position: 'left'},
         ],
       },
@@ -102,6 +104,10 @@ const config = {
               {
                 label: '博客',
                 to: '/blog',
+              },
+              {
+                label: '小说',
+                to: '/novel/mainpage',
               },
             ],
           },
