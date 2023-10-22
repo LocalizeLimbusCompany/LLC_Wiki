@@ -1,5 +1,1 @@
-## 零协会文档系统
-
-www.zeroasso.top
-
-### To do list
+# 由于官网已改为本地部署，因此本仓库已Archive。
