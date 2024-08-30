@@ -2,6 +2,10 @@
 title: 加入都市零协会！
 ---
 
+## 加入周边社区
+
+如果您希望**与他人聊天或找到我们**，可以加入我们的QQ频道。请参考：[加入周边社区或加入零协会](https://www.zeroasso.top/docs/main#%E5%8A%A0%E5%85%A5%E5%91%A8%E8%BE%B9%E7%A4%BE%E5%8C%BA%E6%88%96%E5%8A%A0%E5%85%A5%E9%9B%B6%E5%8D%8F%E4%BC%9A) 中关于QQ频道的信息。
+
 ## 加入都市零协会
 [**审核群链接**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=S35jbCNIHBlrmez-3mNw2w4rMEz8XmSL&authKey=%2B3Y8zQHw4OGFeON4GKfHdQM44jkKd%2B6YQxMAp3vdLAft018xJdzn%2FcSGTb2ghTno&noverify=0&group_code=374773207)  
 若不方便使用链接，可展开找到二维码：
@@ -25,180 +29,33 @@ title: 加入都市零协会！
 各个语言的翻译是零协会最重要的组成部分，是参与日常翻译活动的主力。零协会翻译模组因此存在。  
 我们对校对的专业性以及权威性要求更高，但同时校对也是最重要、最受尊重的职位。  
 
-请在不借助外力、不使用机翻、允许查阅字典的情况下完成以下内容的翻译。  
-您可以**自由选择自己翻译的源语言**(三语其一)，也可以**比对其他语言**来辅助您翻译。  
-请注意保留其中的**换行符**```\n```；使用适合中文的**全角符号**；使用适合中文的**全角引号**而**不是**方引号；**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)；**请保证您的符号使用符合我们的**[**符号规范**](https://www.zeroasso.top/docs/translate/punctuation)。
+在翻译过程中，请注意保留其中的**换行符**```\n```；使用适合中文的**全角符号**；使用适合中文的**全角引号**而**不是**方引号；**不要破坏**[**Json原有格式**](https://www.zeroasso.top/docs/translate/punctuation#%E7%90%86%E8%A7%A3json%E6%A0%BC%E5%BC%8F)；**请保证您的符号使用符合我们的**[**符号规范**](https://www.zeroasso.top/docs/translate/punctuation)。
 
-#### EN (英语翻译暂停招收 - 您可以尝试校对，题目相同)
-<details>
-若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
+请您[点此下载零协会试译文本](https://node.zeroasso.top/d/od/Trial_Translation.pdf)，并在该pdf文件的文字域内完成您的翻译编辑，保存后按文件内指示提交。
 
-![image](/img/page/copyButton.png)
+### 剪辑
+我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**  
+如果您**先前有其他作品**，请将其提供给我们的审核老师以争取**免试**。
 
-**第一段**  
-```json
-    {
-      "id": 901026,
-      "name": "",
-      "subDesc": "",
-      "desc": "A cluster of eyes looks this way.\nThe thing in the middle has the appearance of a tree branch, but it is human.\n\nHeaven sometimes burrows;\nother times, it makes a home in the heart.\n\nOnce taken root, that heaven\nwill only be visible through the eyes of others.",
-      "options": [
-        {
-          "message": "Close your eyes.",
-          "result": [
-            "Even with one’s eyes closed, heaven is there.\n\nAs long as heaven is lodged in,\nthere is no way to avert your gaze\nfrom what you wish not to see.\n\nMeaning, you may only see\nwhat it wants you to see.\n\nEven though one’s eyes were closed,\none’s sight remained open.\n\nIt will be forever impossible to close."
-          ]
-        },
-        {
-          "message": "Return the gaze.",
-          "result": [
-            "You stare into it without blinking.\n\nIts eyes won’t so much as flinch.\n\nThose eyes don’t care if the host twitches in pain.\n\nYou are not what the eyes are looking at.\n\nIt must be heaven somewhere behind me."
-          ]
-        }
-      ]
-    },
-```
-    
-**第二段**  
-Dongrang no longer feels pity for test subjects.
+请您先下载：[**零协会剪辑试题内容包**(545MB)](https://node.zeroasso.top/d/od/%E9%9B%B6%E5%8D%8F%E4%BC%9A%E5%89%AA%E8%BE%91%E8%AF%95%E9%A2%98.rar)
 
-Even if his technology isn't recognized...  
-Even when he thinks of the yellow calf in his hometown...  
-He isn't sad anymore.
+剪辑内容包中内含两个项目，其分别为“剪辑灵感”和“速报模板使用”。您可以从这两者内**任选其一**进行尝试。
+- 剪辑灵感
+  - 使用我们准备的素材制作一次月报。具体要求详见压缩包内。
+- 速报模板使用
+  - 使用我们准备的素材，套用给定的速报模板，制作一次人格更新速报。具体要求详见压缩包内。
 
-"The past is all useless. I'll burn it all."
-
-"And Yi Sang, I'd like you gone as well."
-
-Dongrang begins to rush at Yi Sang.
-
-——————
-
-"I really shouldn't be wasting my time like this."
-
-Coming to a sudden realization, Dongrang stopped in place.  
-And he looked at the ceiling as though he was looking up at stars in the sky.
-
-"At this very moment... I'm losing out for each second it spends without crying."
-
-"The opportunities and time to change the world... are scattering."
-
-Dongrang then glared with bloodshot eyes.
-
-"Yi Sang... It's you, you're the only one who needs to go for this to be over!"
-</details>
-
-#### JP
-<details>
-若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
-
-![image](/img/page/copyButton.png)
-
-**第一段**  
-```json
-    {
-      "id": 901026,
-      "name": "",
-      "subDesc": "",
-      "desc": "沢山の目玉がこちら見つめる。\n真ん中にあるのは木の枝のように見えるが、人間だ。\n\n天国は喰い込むこともあるが\nときには心の中に寄生する。\n\n一度刺さってしまった天国は私ではない\n誰かの目でしか見られないだろう。",
-      "options": [
-        {
-          "message": "目を閉じる。",
-          "result": [
-            "目を閉じても見えるのが天国だ。\n\n天国が刺さっている以上\n私が見たくないものを\n見ずにいることはできない。\n\nつまり、これが見たがっている\nものだけを見なければならないということだ。\n\n私は目を閉じていたが、\n同時に目を開けていた。\n\n永遠に閉じることはできないだろう。"
-          ]
-        },
-        {
-          "message": "目を合わせる。",
-          "result": [
-            "瞬きせず、そのまま見つめ返す。\n\nこれの目玉は微動だにしない。\n\n人が苦しさに悶えても、瞳は気にも留めない。\n\nこれらが見つめているのは私ではない。\n\n私の後ろにあるはずの、どこかの天国だろう。"
-          ]
-        }
-      ]
-    },
-```
-    
-**第二段**  
--リボンは布などの、いかなる織物の感触も有してはいなかった。  
--あるものは握ると粉々になる落葉のような質感であり、あるものは丈夫な植物のツタを触るような感覚がした。  
--確実なのは、そのリボンは生きている存在ということである。  
--リボンを引きちぎる際、扱い方によってリボンの動きが決定されるようであった。  
--荒々しく引きちぎると、リボンは崩れやすいようであった。  
--これ以上把握できる事実はないようなので、観察日誌はこれにて終了する。  
-→無我夢中で手当たり次第引っぺがしたんだけど、思ってたより上手くいったんだよね。 →僕は失敗しないように、恐る恐る触ったんですけど…。急にリボンが膨らんでホンルさんに巻き付いたんです。そのせいで…。  
-→僕は大丈夫です、シンクレアさ～ん。ああいう経験も独特で良かったです！
-</details>
-
-#### KR
-<details>
-若您觉得单行过长的话，您可以将鼠标浮于Json框内，点击自动换行按钮或使用复制按钮将其复制到其他地方。
-
-![image](/img/page/copyButton.png)
-
-**第一段**  
-```json
-    {
-      "id": 901026,
-      "name": "",
-      "subDesc": "",
-      "desc": "여러 눈알이 이쪽을 바라본다.\n가운데 있는 것은 나무가지 같이 보이지만 사람이다.\n\n천국은 파고들기도 하지만\n때로는 마음속에 기생한다.\n\n한번 박혀버린 천국은 내가 아닌\n누군가의 눈으로밖에 보지 못할 것이다.",
-      "options": [
-        {
-          "message": "눈을 감는다.",
-          "result": [
-            "눈을 감아도 보이는 것이 천국이다.\n\n천국이 박혀있는 이상\n내가 보고 싶지 않은 것을\n보지 않을 수는 없다.\n\n그 말은 이것이 보고 싶어 하는\n것만을 보아야 하는 것이다.\n\n나는 눈을 감고 있었지만,\n동시에 눈을 뜨고 있었다.\n\n영원히 감을 수 없을 것이다."
-          ]
-        },
-        {
-          "message": "마주한다.",
-          "result": [
-            "눈을 깜빡이지 않고 그대로 바라본다.\n\n이것의 눈알은 미동조차 하지 않는다.\n\n사람이 괴로움에 움찔거려도 눈동자는 개의치 않는다.\n\n이것들이 바라보는 것은 내가 아니다.\n\n내 뒤에 있을 어딘가의 천국일 것이다."
-          ]
-        }
-      ]
-    },
-```
-
-**第二段**  
-동랑은 더 이상 실험 당하는 것들을 가여워 하지 않아.
-
-자신의 기술이 인정받지 못해도…  
-고향에 남겨진 누렁이를 생각해도…  
-더는 슬프지 않지.
-
-"과거는 전부 쓸모 없어. 모두 태워 없애겠어."
-
-"이상, 너도 그만 사라져 줬으면 좋겠어."
-
-동랑은 이상을 향해 질주하기 시작해.
-
-——————
-
-"이렇게 시간 낭비하고 있을 때가 아닌데."
-
-동랑은 문득 깨달았다는 듯, 그 자리에 우뚝 멈춰섰어.  
-그리고 마치, 하늘의 별이라도 올려다 보듯 천장을 바라보았지.
-
-"지금 이 시간에도… 저것이 울어주지 않는 만큼 손해를 보고 있어."
-
-"세상을 바꿀 수 있는 기회와 시간이… 흩어지고 있다고."
-
-동랑은 핏발 선 눈으로 노려보았지.
-
-"이상… 너만, 너만 사라지면 끝날 일이잖아?!"
-</details>
+若您试题有任何疑问，无需顾忌，请直接询问我们审核老师~
 
 ### 打轴
-我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**
+我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**  
+如果您**先前有其他作品**，请将其提供给我们的审核老师以争取**免试**。
 
-零协会有黑科技——自动打轴工具，所以轴man的主要任务从打轴变成了填轴和补充代码。  
-请以群文件“1-06自动轴”为基础，将精华消息中的共享文档“1-06剧情翻译”里面的内容填到轴里，并修改可能存在的错误，补充人名、地名、身份这三种轴。样例详见群文件“1-07剧情轴”。
-### 查轴
-我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**
+您可以使用您习惯使用的打轴与字幕工具，联系群内审核老师即可~
 
-请检查并修正群文件“机制5源轴”，将修正后的文件发给相应审核老师。
 ### 文案
-我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**
+我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**  
+如果您**先前有其他作品**，请将其提供给我们的审核老师以争取**免试**。
 
 请以月计公告内容制作一份月报文案。
 
@@ -227,19 +84,15 @@ Dongrang then glared with bloodshot eyes.
 - 除素材外内容请以word中表格呈现；结束后请将素材与word打包压缩，发送至相应审核老师  
 
 ### 配音
-我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**
+我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**  
+审核老师采用的试音文本可能与以下不同，请您**优先联系审核老师**。
 
 ![image](/img/page/voiceOver.png)
 
 请配音上图中左侧的内容，右侧两列是对画面的描述，可供参考。
-### 剪辑
-我们明白此类职位在审核时需要进行的事项较多，因此**在您进行本项审核之前，建议您先单独联系审核群内对应审核老师。**
 
-![image](/img/page/vidEditing.png)
-
-请根据上图以及群文件中的“十一月月报背景”和“十一月月报音轨”，剪辑一份成片。图片素材可由您自己寻找，也可直接联系审核老师沟通。
 ### 美术
-感谢您喜欢我们，您可以直接联系审核群内对应老师！
+感谢您喜欢我们！！您可以直接联系审核群内对应老师！
 
 ## 加入ParaTranz
 请您先加入零协会汉化组，通过审核后再申请加入Prz

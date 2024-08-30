@@ -2,9 +2,8 @@
 title: Minecraft服务器
 ---
 
-Minecraft 科技空岛
-
-使用整合包：[Alpha Machinery](https://www.mcbbs.net/thread-1196768-1-1.html)
+零协会提供的MC服务器！  
+服务器游玩的内容不定期变更。
 
 游玩之前请您入群：
 <details>

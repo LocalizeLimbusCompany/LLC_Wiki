@@ -2,13 +2,21 @@
 title: 零协会聊天表情上架
 ---
 
-本套表情**共有十枚**，为BiliBili充电专属表情。于BiliBili充电即可在BiliBili使用。
+零协会共有两套表情。第一套表情为有十枚，已经上架微信，且为BiliBili充电专属表情。于BiliBili充电即可在BiliBili使用。
+
+第二套表情为16枚，已经上架QQ。
 
 我们的[**数字内容支持者包**](https://www.zeroasso.top/docs/community/patron)内含这些表情的无损原图以及草稿、线稿。
 
-我们已将表情同步上传至微信，详见下文。
+## QQ表情
 
-## 零协会表情包现已上架
+[点击此处](https://zb.vip.qq.com/hybrid/emoticonmall/detail?id=239865)使用链接跳转到表情详情页面。
+
+或从 装扮我的QQ → 表情 → 搜索“零协会黑白” 找到此表情！
+
+![image](/img/page/emotes_qq.png)
+
+## 微信表情
 
 ![image](/img/page/emotes_weixin.png)
 
@@ -19,4 +27,4 @@ title: 零协会聊天表情上架
 
 ![image](/img/page/emotes_weixin_qr.png)
 
-注：受微信表情固定数量限制，我们仅能上传8枚表情。受QQ固定16枚限制，我们暂时无法上传QQ。我们后续将试图改善此问题。
+注：受微信表情固定数量选项限制，我们仅能上架8枚表情。受QQ固定16枚限制，本套表情暂无法上架QQ。

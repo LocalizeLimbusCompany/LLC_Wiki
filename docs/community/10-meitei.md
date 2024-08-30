@@ -3,12 +3,14 @@ title: 边狱公司文件转移工具
 ---
 
 ## 获取
-<a href="http://81.70.83.185:5244/d/od/%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8%E6%96%87%E4%BB%B6%E8%BD%AC%E7%A7%BB%E5%B7%A5%E5%85%B7.zip" class="buttonDownload">OneDrive For Business</a>
+<a href="https://node.zeroasso.top/d/od/%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8%E6%96%87%E4%BB%B6%E8%BD%AC%E7%A7%BB%E5%B7%A5%E5%85%B7.zip" class="buttonDownload">OneDrive For Business</a>
 
 ## 目的
 注：出于共享和方便社区的目的，零协会仅以本方式传播本工具。零协会没有参与本工具的任何编写和制作过程。
 
-将堆积在C盘内的巨量边狱缓存文件以```mklink```的方式转移出C盘。  
+将在C盘内的边狱缓存文件以```mklink```的方式转移出C盘。  
+**转移目标位置为本工具的位置**，因此请将本工具放在合适的位置再打开。
+
 游戏更新、卸载与重装游戏、卸载与重装本工具 均**不会**破坏本工具设置的文件转移。  
 本工具使用Windows支持的功能，与游戏本身**无关**，**不存在**账号风险。
 

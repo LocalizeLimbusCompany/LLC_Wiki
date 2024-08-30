@@ -10,10 +10,12 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 首先，请您务必确认您的模组**真的正常安装**，并且，确保您的系统真的兼容BepInEx。
 
 对此，我们提供两种基于多人经验的解决办法。
-- 使用“兼容模式”运行LimbusCompany  
+- 使用兼容模式运行LimbusCompany  
 若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭兼容模式。就算不一直打开兼容模式，模组也应当能保持正常。
+- 使用管理员模式运行LimbusCompany  
+若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭管理员模式。就算不一直打开管理员模式，模组也应当能保持正常。
 - 等待。**这个问题有自行解决的倾向。**请您继续您的工作，并保持正常、规律的开关机。这个问题很有可能隔天便不复存在。  
-关于其他人通过等待解决问题的多个案例，请参考 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
+虽然听起来既玄学又无奈，但有很多其他人通过等待解决问题的案例：请参考GitHub上的 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
 
 ### 基础链接已经关闭 或 发生错误
 您可能遇到了HttpClient自身缺陷带来的问题。
@@ -28,8 +30,19 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)
 
+### LLC_MOD_Toolbox.exe - This application could not be started
+
+您没有安装 .Net 4.8 运行库，请在安装后打开工具箱。  
+.NET 4.8 Runtime [Web安装程序](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-web-installer) | [脱机安装程序](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-offline-installer)  
+若出现安装问题/安装后仍然存在此问题，请参考[此页面](https://www.zeroasso.top/docs/callus)向我们反馈问题。
+
 ### 无法连接到远程服务器
 您遇到了网络问题。请按照[排除网络问题的综合指引](https://www.zeroasso.top/docs/question#%E6%8E%92%E9%99%A4%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98%E7%9A%84%E7%BB%BC%E5%90%88%E6%8C%87%E5%BC%95)尝试排除网络问题。
+
+### 控制台刷屏出现大量红字
+如果这些信息前方有`Unity`字样(如下图)，则请忽略。这些报错出自游戏程序本身，并非模组导致，且不影响正常游玩。  
+
+![](/img/page/ManyRedFuckLog.png)
 
 ### 排除网络问题的综合指引
 以下指引将帮助您排查任何潜在的**网络问题**。

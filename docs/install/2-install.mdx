@@ -1,5 +1,8 @@
 ---
 title: 手动安装
+description: 都市零协会汉化组官网 | 手动安装零协会汉化补丁 | 边狱公司汉化补丁
+image: https://www.zeroasso.top/img/logo.png
+keywords: [都市零协会汉化组, 边狱公司, LimbusCompany, 零协会汉化, 都市零协会, 零协会, 汉化模组]
 ---
 :::caution
 
@@ -17,30 +20,29 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 如果自动安装出现了问题，则您可以选择手动安装方式。
 
-## （可选）下载 Watt Toolkit（原Steam++）
+## 可选 - 下载 Watt Toolkit 或 Steamcommunity 302
 
-我们已经在标准安装流程中去除了对GitHub的依赖。不过，若您选择从GitHub获取文件，那么您在安装过程中依然需要访问Github。
+我们已经在标准安装流程中去除了对GitHub的依赖。不过，若您选择从GitHub获取文件，那么您在安装过程中依然需要访问Github。  
+如果您已有全局代理等工具则解决您的连接性问题，则可以跳过此步。
 
-如果你有全局代理（梯子）等工具则可以无视，如果你没有，请在 [Watt Toolkit官网](https://steampp.net/) 下载并解压。  
-打开后勾选Github，再点击加速。在接下来的安装步骤中就别关上了。
+您可以在 [Watt Toolkit网址](https://steampp.net/) 下载 Watt Toolkit。  
+您可在 [羽翼城个人博客](https://www.dogfight360.com/blog/686/) 下载 Steamcommunity 302。
 
-## 下载 .Net 6.0
+> 请注意，Watt Toolkit内存在广告投放。  
+> Watt Toolkit操作相对直观，而Steamcommunity 302则更加简约静默。  
+> 关于这些工具的其他用法，推荐您自行了解。  
+> 以上工具均由其制作者免费提供，请您支持他们。  
+> 零协会与以上工具的制作和发行方均无任何关联。
 
-模组的运行离不开 .Net 6.0 环境。  
-请务必进入 [此链接](https://download.visualstudio.microsoft.com/download/pr/4a725ea4-cd2c-4383-9b63-263156d5f042/d973777b32563272b85617105a06d272/dotnet-sdk-6.0.406-win-x64.exe) 下载 .Net 6.0 安装包并运行。
+这两个工具主要是为加速Steam而制作的，但也可以加速GitHub。  
+您需要在其设置页面勾选Github，再开启加速服务。
 
 ## 下载组件
 
-您需要下载以下**所有**下压缩包。  
-注意，如果你使用**Github Release**下载文件，切勿下载**Source code**或**带有OTA的压缩包**，你应该下载类似于**LimbusLocalize\_BIE\_v0.x.x.7z**的文件。
-:::info
+您需要下载以下**所有**下压缩包。我们建议您按照 BepInEx → 字体文件 → 模组本体 的顺序进行下载。  
+若您使用**Github Release**下载文件，切勿下载**Source code**或**带有OTA的压缩包**。您应下载类似于**LimbusLocalize\_BIE\_v0.x.x.7z**的文件。
 
-我们还没有为我们的服务器配置域名，因此您在从 OneDrive For Business 下载时可能会见到“无法安全下载”的提示。  
-我们提供的文件是安全的。请您右键单击该提示，然后选择“保留”、“仍然保留”以继续进行下载。
-
-:::
-
-### BepInEx (a.k.a BIE)
+### 一、BepInEx (a.k.a BIE)
 :::info
 
 LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用到的输出程序集。因此，其初始化时不需要额外从互联网下载任何文件。  
@@ -53,7 +55,7 @@ LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用�
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/BepInEx-IL2CPP-x64.7z",
+      href: "https://node.zeroasso.top/d/od/BepInEx-IL2CPP-x64.7z",
       text: "OneDrive For Business",
     },
     {
@@ -63,12 +65,12 @@ LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用�
   ]}
 />
 
-### 字体文件
+### 二、字体文件
 
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/tmpchinesefont_BIE.7z",
+      href: "https://node.zeroasso.top/d/od/tmpchinesefont_BIE.7z",
       text: "OneDrive For Business",
     },
     {
@@ -80,12 +82,12 @@ LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用�
 
 注：若从GitHub下载，您需要自行找到该文件应放置的位置，而不是直接解压至根目录。
 
-### 模组本体
+### 三、模组本体
 
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/LimbusLocalize_BIE_FullPack.7z",
+      href: "https://node.zeroasso.top/d/od/LimbusLocalize_BIE_Latest.7z",
       text: "OneDrive For Business",
     },
     {
@@ -97,14 +99,14 @@ LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用�
 
 注：若从GitHub下载，请选择BIE版全量包：文件名类似`LimbusLocalize_BIE_vx.x.x.7z`
 
-## 安装 7zip（可选）
+## 使用 7zip（可选）
 
-如果你下载完刚刚的压缩包，发现你的计算机无法识别.7z文件，则你需要安装7zip。  
-你可以在 [7-zip 官网](https://7-zip.org/a/7z2301-x64.exe) 下载安装包。
+如果你下载完刚刚的压缩包，发现你的计算机无法识别.7z文件，则建议您使用7zip。  
+可以在 [7-zip 官网](https://7-zip.org/a/7z2301-x64.exe) 下载安装包。
 
 ## 解压
 
-打开你的steam，进入库，右键Limbus Company，点击浏览本地文件。
+打开steam，进入库，右击Limbus Company，在“属性”选项内，点击浏览本地文件。
 
 将BepInEx，零协会汉化补丁主体和字体的压缩包拖入这个目录。
 
@@ -124,3 +126,7 @@ LLC特供版BepInEx预装了IL2CPP的依赖文件，且去除了不需要使用�
 
 - 请**优先参考**[**常见问题**](https://www.zeroasso.top/docs/question)页面中的提示。
 - 或者，[向我们反馈问题](/docs/callus)以第一时间得到支持。
+
+## 关于任何 .Net 运行时
+
+模组本体无需使用任何 .Net 运行时。模组安装器仍需运行时，详情请参照自动安装页面。

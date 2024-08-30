@@ -1,5 +1,8 @@
 ---
 title: 卸载汉化
+description: 都市零协会汉化组官网 | 卸载零协会汉化补丁 | 边狱公司汉化补丁
+image: https://www.zeroasso.top/img/logo.png
+keywords: [都市零协会汉化组, 边狱公司, LimbusCompany, 零协会汉化, 都市零协会, 零协会, 汉化模组]
 ---
 
 ## 关闭汉化

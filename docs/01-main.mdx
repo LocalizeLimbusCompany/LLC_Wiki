@@ -1,5 +1,7 @@
 ---
 title: 首页
+description: 都市零协会汉化组 | 官网 | 边狱公司汉化补丁
+keywords: [都市零协会汉化组, 边狱公司, LimbusCompany]
 ---
 
 import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnGroup";
@@ -7,7 +9,7 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 ## [如何联系我们？](/docs/callus)
 
 ## 简介
-欢迎来到LLC维基！
+欢迎来到LLC主页/文档站！
 LLC stands for Localize Limbus Company.
 
 在这里，您可以找到我们收集的关于风格、翻译以及工作流程的信息。
@@ -16,6 +18,21 @@ LLC stands for Localize Limbus Company.
 
 > 为了让珍贵的东西不被忘记，这将是记载并收集我们的思考、思想和智慧的地方。
 
+## 加入周边社区或加入零协会
+在这里找到如何加入我们的社区(**QQ频道、群**)或者加入我们！
+<details>
+
+如果您希望**加入翻译组或广播局与我们一起工作**，请参考“[加入都市零协会](https://www.zeroasso.top/docs/joinus#%E5%8A%A0%E5%85%A5%E9%83%BD%E5%B8%82%E9%9B%B6%E5%8D%8F%E4%BC%9A)”和“[入组细则](https://www.zeroasso.top/docs/joinus#%E5%85%A5%E7%BB%84%E7%BB%86%E5%88%99)”部分。
+
+如果您希望**与他人聊天或找到我们**，可以加入我们的QQ频道：  
+QQ频道链接：[加入LLC频道](https://pd.qq.com/s/gqpsr265g)  
+**注：频道现在支持像群聊一样出现在主页消息列表里。从设置页面打开“添加频道至消息列表”即可，非常方便。我们已在频道的“驾驶室|零协公告”页面提供了此设置的图像指引，供您参考。**
+
+![image](/img/page/LLCChannel.png)
+
+我们采用频道是因为聊天群已经爆满，即使我们每天都清除非活跃人员，单个群最终还是无法容纳所有人。我们既不愿意进行分流(即开二群)，也不愿意再移除发言相对活跃的小伙伴们，因此我们诚邀您加入LLC频道！
+</details>
+
 ## 模组信息
 模组由多个组件构成，参见[手动安装](/docs/install/install)，向你介绍我们模组的最纯粹、最高贵、最优雅的**手动**安装方法。
 
@@ -23,7 +40,7 @@ LLC stands for Localize Limbus Company.
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/LocalizeLimbusModInstaller.7z",
+      href: "https://node.zeroasso.top/d/od/LocalizeLimbusModInstaller.7z",
       text: "OneDrive For Business",
     },
     {
@@ -34,13 +51,36 @@ LLC stands for Localize Limbus Company.
 />
 
 ### 各安装组件
-#### 必须安装环境：[.NET 6.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
+#### 安装器必须环境：.NET 4.8 Runtime
+
+模组安装器依赖于 .NET 4.8 运行时，如果您希望使用模组安装器，您需要使用微软提供的安装器来完成这一步。  
+如果您曾安装过此运行时，您可跳过这一步。  
+注：BepInEx模组本体已自带.NET运行库。如果您不使用安装器来安装模组，您可跳过这一步。
+
+<DownloadButtonGroup
+  buttons={[
+    {
+      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-web-installer",
+      text: "Web安装程序",
+    },
+    {
+      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-offline-installer",
+      text: "脱机安装程序",
+    },
+  ]}
+/>
+
+##### 关于安装问题
+- 如果您在安装时遇到问题，请先尝试使用**脱机安装程序**进行安装。  
+- 如果仍然无法安装，请确认您的Windows版本：
+  - Windows专业版和家庭版最低需要版本1607才能安装.NET4.8框架。
+  - Windows 10 1507 以及 Windows 10 1511 不支持.NET4.8框架。您首先需要升级到较新的 Windows 10 版本。
 
 #### 客制化模组框架 BepInEx_For_LLC
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/BepInEx-IL2CPP-x64.7z",
+      href: "https://node.zeroasso.top/d/od/BepInEx-IL2CPP-x64.7z",
       text: "OneDrive For Business",
     },
     {
@@ -54,7 +94,7 @@ LLC stands for Localize Limbus Company.
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/LimbusLocalize_BIE_FullPack.7z",
+      href: "https://node.zeroasso.top/d/od/LimbusLocalize_BIE_Latest.7z",
       text: "OneDrive For Business",
     },
     {
@@ -68,7 +108,7 @@ LLC stands for Localize Limbus Company.
 <DownloadButtonGroup
   buttons={[
     {
-      href: "http://81.70.83.185:5244/d/od/tmpchinesefont_BIE.7z",
+      href: "https://node.zeroasso.top/d/od/tmpchinesefont_BIE.7z",
       text: "OneDrive For Business",
     },
     {
