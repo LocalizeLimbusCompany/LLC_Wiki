@@ -51,30 +51,20 @@ QQ频道链接：[加入LLC频道](https://pd.qq.com/s/gqpsr265g)
 />
 
 ### 各安装组件
-#### 安装器必须环境：.NET 4.8 Runtime
+#### 安装器必须环境：.NET 8.0 Runtime
 
-模组安装器依赖于 .NET 4.8 运行时，如果您希望使用模组安装器，您需要使用微软提供的安装器来完成这一步。  
+模组安装器依赖于 .NET 8.0 运行时，如果您希望使用模组安装器，您需要使用微软提供的安装器来完成这一步。  
 如果您曾安装过此运行时，您可跳过这一步。  
 注：BepInEx模组本体已自带.NET运行库。如果您不使用安装器来安装模组，您可跳过这一步。
 
 <DownloadButtonGroup
   buttons={[
     {
-      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-web-installer",
-      text: "Web安装程序",
-    },
-    {
-      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-offline-installer",
-      text: "脱机安装程序",
+      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer",
+      text: ".NET 8.0 桌面运行时安装程序",
     },
   ]}
 />
-
-##### 关于安装问题
-- 如果您在安装时遇到问题，请先尝试使用**脱机安装程序**进行安装。  
-- 如果仍然无法安装，请确认您的Windows版本：
-  - Windows专业版和家庭版最低需要版本1607才能安装.NET4.8框架。
-  - Windows 10 1507 以及 Windows 10 1511 不支持.NET4.8框架。您首先需要升级到较新的 Windows 10 版本。
 
 #### 客制化模组框架 BepInEx_For_LLC
 <DownloadButtonGroup
