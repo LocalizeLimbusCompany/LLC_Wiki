@@ -18,10 +18,39 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 虽然听起来既玄学又无奈，但有很多其他人通过等待解决问题的案例：请参考GitHub上的 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
 
 ### 基础链接已经关闭 或 发生错误
-您可能遇到了HttpClient自身缺陷带来的问题。
+您的网络可能存在问题，请尝试使用代理工具。
 
 请先按照[排除网络问题的综合指引](https://www.zeroasso.top/docs/question#%E6%8E%92%E9%99%A4%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98%E7%9A%84%E7%BB%BC%E5%90%88%E6%8C%87%E5%BC%95)尝试排除网络问题。  
 如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)
+
+### 工具箱在启动时无响应后闪退
+目前寻找边狱公司路径可能存在部分问题，导致自动寻找边狱公司路径出现问题。  
+您可以通过手动填写游戏路径解决问题。  
+<details>
+
+#### 1. 获取路径
+进入 Steam 库，右键 Limbus Company ，点击管理-浏览本地文件。  
+![image](/img/page/lcbpath-1.png)
+
+点击上方路径的空白处，此时路径将会显示，复制这串文本即为路径。例如此处为`D:\Program Files (x86)\Steam\steamapps\common\Limbus Company`  
+![image](/img/page/lcbpath-2.png)
+
+#### 2. 更改配置
+双击工具箱目录下的`config.json`（如果您没有开启后缀显示，那么会显示为`config`），用记事本打开，您应该会看到一个 JSON 结构的文件。（截图中使用的软件为 Visual Studio Code ）  
+![image](/img/page/lcbpath-3.png)
+
+首先，先将`CskipLCBPathCheck`后的`false`改为`true`，这个配置会让工具箱不对路径进行检查。
+
+其次，将`CLCBPath`后的`null`改为您的路径，**但请注意**，路径中的`\`需要替换为`\\`。  
+例如`D:\Program Files (x86)\Steam\steamapps\common\Limbus Company`就需要改为`D:\\Program Files (x86)\\Steam\\steamapps\\common\\Limbus Company`。  
+同时，路径两边还需要加上英文双引号（`"`）。
+
+最后的效果应该是：  
+![image](/img/page/lcbpath-4.png)
+
+按下`Ctrl+S`保存后，重新打开工具箱。如果您的操作没有问题，那么应该能够正常开启了。
+
+</details>
 
 ### 远程服务器返回错误：404
 ![image](/img/page/err404.jpg)
@@ -30,10 +59,19 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)
 
-### LLC_MOD_Toolbox.exe - This application could not be started
+### LLC_MOD_Toolbox.exe - You must install or update .NET to run this application.
 
-您没有安装 .Net 4.8 运行库，请在安装后打开工具箱。  
-.NET 4.8 Runtime [Web安装程序](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-web-installer) | [脱机安装程序](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-offline-installer)  
+您没有安装 .Net 8.0 运行库，请在安装后打开工具箱。  
+
+<DownloadButtonGroup
+  buttons={[
+    {
+      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer",
+      text: ".NET 8.0 运行时程序",
+    },
+  ]}
+/>
+
 若出现安装问题/安装后仍然存在此问题，请参考[此页面](https://www.zeroasso.top/docs/callus)向我们反馈问题。
 
 ### 无法连接到远程服务器
@@ -56,6 +94,7 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 自安装器`0.5.0`版本以来，安装器从数个国内通用网盘服务作为下载源进行下载。通常来说，(若您也在国内，那么)这些基于国内的服务应当是可用的。  
 但是，若您仍无法下载：
+- 您可以在设置处更改节点。
 - 您可以选择```从GitHub下载文件```。  
   - 请忽略左侧选项，并将右侧的“从GitHub下载文件”打开。
   - 然后，**确保您和GitHub的连接畅通**。
