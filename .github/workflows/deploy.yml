@@ -45,4 +45,4 @@ jobs:
         # 我是弱智我草，我怎么想到在Linux用powershell的
         run: |
           curl -X POST https://https://api.zeroasso.top/get_web_zip \
-          -H "Authorization: ${{ secrets.API_SECRET }}
+          -H "Authorization: ${{ secrets.API_SECRET }}"
