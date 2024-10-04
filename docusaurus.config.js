@@ -18,7 +18,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "LocalizeLimbusCompany", // Usually your GitHub org/user name.
   projectName: "LLC_Wiki", // Usually your repo name.
-  deploymentBranch: "main",
   trailingSlash: false,
   
   customFields: {
