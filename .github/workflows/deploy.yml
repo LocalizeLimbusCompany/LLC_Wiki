@@ -42,5 +42,7 @@ jobs:
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
       - name: Post Knows ALL Thing
+        # 我是弱智我草，我怎么想到在Linux用powershell的
         run: |
-          Invoke-RestMethod -Uri "https://api.zeroasso.top/get_web_zip" -Method Post -Headers @{"Authorization" = "${{ secrets.API_SECRET }}"}
+          curl -X POST https://https://api.zeroasso.top/get_web_zip \
+          -H "Authorization: ${{ secrets.API_SECRET }}
