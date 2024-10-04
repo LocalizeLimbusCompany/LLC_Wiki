@@ -162,8 +162,7 @@ const config = {
         copyright: `都市零协会汉化组 Localize Limbus Company | 本网站使用 Docusaurus`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        additionalLanguages: ['bash', 'diff', 'json'],
       },
     }),
 };
