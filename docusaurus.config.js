@@ -19,13 +19,6 @@ const config = {
   organizationName: "LocalizeLimbusCompany", // Usually your GitHub org/user name.
   projectName: "LLC_Wiki", // Usually your repo name.
   trailingSlash: false,
-  
-  customFields: {
-      USE_SSH: true,
-      GIT_PASS: process.env.GIT_PASS,
-      GIT_USER: "ZengXiaoPi",
-      CURRENT_BRANCH: "main"
-  },
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

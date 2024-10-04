@@ -28,7 +28,7 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
   - 从**我们提供的渠道**下载**最新版本**安装器并重试
 - 进入设置页面调整模组设置
   - 点击**切换模组开关状态**按钮，确保模组为**开启**
-  - 切换下载节点与API节点，参考[这里](https://www.zeroasso.top/docs/installer/nodes)
+  - 切换下载节点与API节点，参考[这里](https://www.zeroasso.top/docs/configuration/nodes)
 - 考虑使用其他安装方式
   - 考虑进行手动安装
   - 考虑使用文件覆盖，参考[这里](https://www.zeroasso.top/docs/FAQ#override-using-working-files)
@@ -36,7 +36,7 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 #### 启动即闪退时：
 
 - 手动对LimbusCompany路径进行设置
-  - 参考[这里](https://www.zeroasso.top/docs/FAQ#%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%9C%A8%E5%90%AF%E5%8A%A8%E6%97%B6%E6%97%A0%E5%93%8D%E5%BA%94%E5%90%8E%E9%97%AA%E9%80%80)
+  - 参考[这里](https://www.zeroasso.top/docs/FAQ#set-folder-path)
 - 考虑使用其他安装方式
   - 考虑进行手动安装
   - 考虑使用文件覆盖，参考[这里](https://www.zeroasso.top/docs/FAQ#override-using-working-files)
@@ -76,7 +76,7 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 - 等待。**这个问题有自行解决的倾向。**请您继续您的工作，并保持正常、规律的开关机。这个问题很有可能隔天便不复存在。  
 虽然听起来既玄学又无奈，但有很多其他人通过等待解决问题的案例：请参考GitHub上的 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
 
-### 模组工具箱在启动时无响应后闪退
+### 模组工具箱在启动时无响应后闪退 {#set-folder-path}
 目前寻找边狱公司路径可能存在部分问题，导致自动寻找边狱公司路径出现问题。  
 您可以通过手动填写游戏路径解决问题。  
 <details>
@@ -104,13 +104,6 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 按下`Ctrl+S`保存后，重新打开工具箱。如果您的操作没有问题，那么应该能够正常开启了。
 
 </details>
-
-### 远程服务器返回错误：404
-![image](/img/page/err404.jpg)
-
-请确保您已经下载了**最新版**的安装器。这可能是因为您的安装器并非[最新版](https://www.zeroasso.top/docs/install/autoinstall#%E4%B8%8B%E8%BD%BD-%E5%B7%A5%E5%85%B7%E7%AE%B1)导致的。
-
-如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/FAQ#override-using-working-files)
 
 ### 控制台刷屏出现大量红字
 如果这些信息前方有`Unity`字样(如下图)，则请忽略。这些报错出自游戏程序本身，并非模组导致，且不影响正常游玩。  
