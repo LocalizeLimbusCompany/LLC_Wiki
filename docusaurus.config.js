@@ -130,7 +130,7 @@ const config = {
               },
               {
                 label: "联系我们",
-                to: "/docs/callus",
+                to: "/docs/contact",
               }
             ],
           },
