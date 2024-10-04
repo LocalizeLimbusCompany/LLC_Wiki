@@ -1,0 +1,14 @@
+{
+    "position": 5,
+    "label": "零协会实体周边与聊天表情",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "零协会实体周边与聊天表情"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+  }
