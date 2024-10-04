@@ -1,12 +1,12 @@
 {
-  "position": 5,
-  "label": "开始安装模组",
+  "position": 7,
+  "label": "安装器相关",
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "开始安装模组"
+    "title": "安装器相关"
   },
   "customProps": {
     "description": "This description can be used in the swizzled DocCard"

@@ -4,9 +4,67 @@ title: 模组常见问题
 
 import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnGroup";
 
+### 写在前面：
+
+模组安装器仅是我们为了方便用户们下载并更新模组而制作的工具。安装器的工作涉及互联网服务器的开发及运行维护、API的使用以及在线下载、本地安装的服务，因此可能会受到包括但不限于网络环境与系统环境在内的多方面影响。  
+这意味着，安装器的可用性，可能在不同用户之间存在差别。
+
+因此，安装器仅仅是安装模组的**工具之一**，**并非**唯一安装途径。  
+如果您无法使用安装器，则可尝试手动进行模组安装。翻译模组的手动安装与日常更新实际上也非常简单。
+
+对于各位遇到的不同问题，我们也感到非常抱歉与遗憾。但由于我们所受到的开发能力，以及经济能力等限制，我们往往很难将任何问题都完美解决。我们将会持续努力，尽量让更多用户体验到方便、快捷的安装服务，与准确、优美的文本翻译。
+
+**感谢各位一贯的理解与支持。**
+
+## TL;DR：笼统的解决方案 {#TLDR}
+
+### 模组安装器相关
+
+#### 无法安装模组时：
+
+- 对安装器执行一次干净的重装
+  - 确保您**完整的**删除干净全部旧版本遗留文件
+  - 从**我们提供的渠道**下载**最新版本**安装器并重试
+- 进入设置页面调整模组设置
+  - 点击**切换模组开关状态**按钮，确保模组为**开启**
+  - 切换下载节点与API节点，参考[这里](https://www.zeroasso.top/docs/installer/nodes)
+- 考虑使用其他安装方式
+  - 考虑进行手动安装
+  - 考虑使用文件覆盖，参考[这里](https://www.zeroasso.top/docs/question#override-using-working-files)
+
+#### 启动即闪退时：
+
+- 手动对LimbusCompany路径进行设置
+  - 参考[这里](https://www.zeroasso.top/docs/question#%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%9C%A8%E5%90%AF%E5%8A%A8%E6%97%B6%E6%97%A0%E5%93%8D%E5%BA%94%E5%90%8E%E9%97%AA%E9%80%80)
+- 考虑使用其他安装方式
+  - 考虑进行手动安装
+  - 考虑使用文件覆盖，参考[这里](https://www.zeroasso.top/docs/question#override-using-working-files)
+
+### 翻译模组相关
+
+#### 模组启动但出现问题时：
+
+- 关注[零协会BiliBili账号动态](https://space.bilibili.com/1247764479)并等待。您的问题可能是普遍的问题，且往往很可能已经被其他人反馈过。  
+此种情况下，还请您耐心等到我们的通告与更新
+- 对翻译模组执行一次干净的重装
+  - 确保您**完整的**删除干净全部旧版本遗留文件
+    - 推荐使用安装器设置页面内的卸载模组按钮，这将确保一个干净完整的卸载
+    - 若不使用工具箱，确保**所有**模组相关的文件已经被卸载。如果您不确定是否有残留文件，则删除所有可疑的文件，并使用Steam验证游戏完整性。
+  - 从**我们提供的渠道**下载**最新版本**翻译模组并重试
+    - 推荐使用安装器下载模组
+    - 若您无法使用安装器安装模组，则可尝试进行手动安装
+
+#### 已经确认模组正确安装，但模组不启动时：
+
+- 参考[这里](https://www.zeroasso.top/docs/question#%E6%A8%A1%E7%BB%84%E6%AD%A3%E5%B8%B8%E5%AE%89%E8%A3%85%E4%BD%86%E6%89%93%E5%BC%80%E6%B8%B8%E6%88%8F%E6%97%A0%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%BC%B9%E5%87%BA%E4%B8%8D%E5%94%A4%E8%B5%B7bepinex)
+
 ## 模组相关问题
 
-### 模组正常安装，但打开游戏无控制台弹出，不唤起BepInEx
+### 无法使用模组安装器安装翻译模组，安装器报错
+
+事实证明，大部分问题是网络问题。针对网络问题，敬请参考[排除安装器网络问题的综合指引](https://www.zeroasso.top/docs/question#%E6%8E%92%E9%99%A4%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98%E7%9A%84%E7%BB%BC%E5%90%88%E6%8C%87%E5%BC%95)。
+
+### 正常安装后，游戏却不受影响，且无控制台弹窗
 首先，请您务必确认您的模组**真的正常安装**，并且，确保您的系统真的兼容BepInEx。
 
 对此，我们提供两种基于多人经验的解决办法。
@@ -17,13 +75,7 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 - 等待。**这个问题有自行解决的倾向。**请您继续您的工作，并保持正常、规律的开关机。这个问题很有可能隔天便不复存在。  
 虽然听起来既玄学又无奈，但有很多其他人通过等待解决问题的案例：请参考GitHub上的 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
 
-### 基础链接已经关闭 或 发生错误
-您的网络可能存在问题，请尝试使用代理工具。
-
-请先按照[排除网络问题的综合指引](https://www.zeroasso.top/docs/question#%E6%8E%92%E9%99%A4%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98%E7%9A%84%E7%BB%BC%E5%90%88%E6%8C%87%E5%BC%95)尝试排除网络问题。  
-如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)
-
-### 工具箱在启动时无响应后闪退
+### 模组工具箱在启动时无响应后闪退
 目前寻找边狱公司路径可能存在部分问题，导致自动寻找边狱公司路径出现问题。  
 您可以通过手动填写游戏路径解决问题。  
 <details>
@@ -57,33 +109,16 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 请确保您已经下载了**最新版**的安装器。这可能是因为您的安装器并非[最新版](https://www.zeroasso.top/docs/install/autoinstall#%E4%B8%8B%E8%BD%BD-%E5%B7%A5%E5%85%B7%E7%AE%B1)导致的。
 
-如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)
-
-### LLC_MOD_Toolbox.exe - You must install or update .NET to run this application.
-
-您没有安装 .Net 8.0 运行库，请在安装后打开工具箱。  
-
-<DownloadButtonGroup
-  buttons={[
-    {
-      href: "https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer",
-      text: ".NET 8.0 运行时程序",
-    },
-  ]}
-/>
-
-若出现安装问题/安装后仍然存在此问题，请参考[此页面](https://www.zeroasso.top/docs/callus)向我们反馈问题。
-
-### 无法连接到远程服务器
-您遇到了网络问题。请按照[排除网络问题的综合指引](https://www.zeroasso.top/docs/question#%E6%8E%92%E9%99%A4%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98%E7%9A%84%E7%BB%BC%E5%90%88%E6%8C%87%E5%BC%95)尝试排除网络问题。
+如无效，请考虑[手动安装](https://www.zeroasso.top/docs/install/install)或采用[文件覆盖](https://www.zeroasso.top/docs/question#override-using-working-files)
 
 ### 控制台刷屏出现大量红字
 如果这些信息前方有`Unity`字样(如下图)，则请忽略。这些报错出自游戏程序本身，并非模组导致，且不影响正常游玩。  
 
 ![](/img/page/ManyRedFuckLog.png)
 
-### 排除网络问题的综合指引
-以下指引将帮助您排查任何潜在的**网络问题**。
+### 排除安装器网络问题的综合指引
+(即便游戏本身需要网络，)翻译模组本身也不需要网络。您不会在使用模组的过程中遇到网络问题，而只会在安装过程中遇到网络问题。  
+以下指引将帮助您排查任何潜在的，有关安装器的**网络问题**。
 
 请您先检查您的**游戏根目录**内的文件是否符合以下列表：
 
@@ -93,27 +128,19 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 我们认为，安装完整的汉化模组一般不会出现问题。
 
 自安装器`0.5.0`版本以来，安装器从数个国内通用网盘服务作为下载源进行下载。通常来说，(若您也在国内，那么)这些基于国内的服务应当是可用的。  
-但是，若您仍无法下载：
-- 您可以在设置处更改节点。
-- 您可以选择```从GitHub下载文件```。  
-  - 请忽略左侧选项，并将右侧的“从GitHub下载文件”打开。
-  - 然后，**确保您和GitHub的连接畅通**。
-  - 若您遇到**相同错误**，那么这说明您**与GitHub的链接不畅**。**请尝试以任何方式(打开/关闭您已有的加速器)更改您的网络环境**。  
-这时，您可以尝试**加速**GitHub。我们推荐您使用 [Watt Toolkit](https://steampp.net/)。
-> 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。其同时具备加速GitHub的附加功能。
-- 或者，请参考[手动安装](https://www.zeroasso.top/docs/install/install)或使用[文件覆盖方案](https://www.zeroasso.top/docs/question#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96)。
+请您首先确认您使用的局域网的质量。确认没有问题之后，请参考[这里](https://www.zeroasso.top/docs/installer/nodes)进行安装器的节点设置，尝试使用不同的节点来寻找可用性最好的下载节点。
 
 ### 遇到其他疑难杂症？
 0. 请确保您已经下载了**最新版**的安装器。
 1. **检查游戏路径内是否存在中文**
-2. **是否已经自行正确安装.NET6.0**
+2. **是否已经自行正确安装.NET8.0**
 3. **请尝试以任何方式(打开/关闭您已有的加速器)以更改您的网络环境**。
 4. 尝试重启
 5. 提交[GitHub Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues)反馈给我们。请记得附上您的**两个log文件**以便我们排错。如果根本没有生成log，请如实填写即可。
 6. 重装系统(慎用，但有解决问题的先例)
 7. 如果以上这些**都无法解决你的问题**，参考下方的“文件覆盖”。
 
-### 解决方案：文件覆盖
+### 解决方案：文件覆盖 {#override-using-working-files}
 
 :::danger
 
@@ -124,24 +151,6 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 :::
 
-#### 使用工具箱的文件覆盖功能
-<details>
-
-如果你无法使用工具箱的正常安装功能 或 以上方法均不能解决您的问题：  
-那么您依然可以尝试工具箱内置的文件覆盖功能。
-
-注：本方法**无法解决系统不兼容**等内生性问题。
-
-在本操作过程中，您将会下载一位组员**本地**的、**正在正常使用**的、**已经初始化完毕**的、汉化模组的一份**在线副本**。  
-这份在线副本一般会在新版模组发布后的**12小时**内进行同步。因此，请您在最新版汉化**发布后至少等待24小时**(或收到我们发出的、可以使用此方式的确认)之后再使用此方式更新您的汉化模组。
-
-请您先于0.5.0版本以上工具箱内打开**设置**页面，点击**开启文件覆盖页面**后面的**开启**按钮。您现在应该注意到工具箱上方多出了一个名为**文件覆盖**的选项卡。  
-请选中进入该选项卡，并按下图指示进行操作。
-
-![image](/img/page/FileReplacement.png)
-</details>
-
-#### 手动操作
 <details>
 
 如果你无法使用工具箱 或 以上方法均不能解决您的问题：  

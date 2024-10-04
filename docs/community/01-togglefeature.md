@@ -42,11 +42,6 @@ UpdateURI = GitHub
 # Default value: true
 IsUseChinese = true
 
-## 是否从所有已到达进度中随机选择载入CG ( true | false )
-# Setting type: Boolean
-# Default value: true
-RandomAllLoadCG = true
-
 ## 是否随机选择载入标语,即右下角的[NOW LOADING...] ( true | false )
 # Setting type: Boolean
 # Default value: true
@@ -85,15 +80,6 @@ RandomLoadText = true
 `true`是默认值，即为使用汉化。
 - `IsUseChinese = false`  
 将其设置为`false`可以关闭汉化。(需要您重启游戏才能生效)
-
-## 是否从所有已到达进度中随机选择载入CG
-边狱公司默认仅从最新进度内选取CG展现在各处的加载扉页中。  
-本功能使得您有机会在加载扉页中欣赏到全部CG。
-
-- `RandomAllLoadCG = true`  
-`true`是默认值，即为随机选取CG。
-- `RandomAllLoadCG = false`  
-将其设置为`false`可以关闭随机CG。(需要您重启游戏才能生效)
 
 ## 是否随机选择载入标语
 载入标语是加载扉页中右下角进度条上方的NOW LOADING...字样。  

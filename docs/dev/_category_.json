@@ -1,12 +1,12 @@
 {
-    "position": 30,
-    "label": "社区周边",
+    "position": 40,
+    "label": "灰度测试",
     "collapsible": true,
     "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "社区周边"
+      "title": "灰度测试"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"

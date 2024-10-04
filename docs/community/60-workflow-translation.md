@@ -110,10 +110,9 @@ LLC 的重要项目：
 当前为自动从Paratranz同步进度并打包Dev版本的仓库。当前与我们的灰度测试联动  
 技术支持由 [曾小皮-ZengXiaoPi](https://github.com/ZengXiaoPi) 与 [奈芙-Nephthys](https://github.com/Nephthys137) 提供
 
-### Seoul, Korea 服务器
+### 互联网服务器
 
-位于韩国首尔的服务器部署了零协会的多个面向用户的网站与服务。  
-虚拟机服务由 [WikiHost](https://idc.wiki/) 提供
+零协会的服务器部署了零协会的多个面向用户的网站与服务。  
 
 #### [www.zeroasso.top](https://www.zeroasso.top/)
 
@@ -124,49 +123,9 @@ LLC 的重要项目：
 
 </details>
 
-#### [node.zeroasso.top](https://node.zeroasso.top/)
-
-<details>
-
-AList反代站点，提供镜像下载服务，以此绕开 Github 。  
-主要由 [曾小皮-ZengXiaoPi](https://github.com/ZengXiaoPi) 提供  
-其下载源有三：
-
-- OneDriveForBusiness
-- 天翼云盘
-- 联通云盘
-
-其中， OneDriveForBusiness 是重要的下载源。用户使用该源下载能够调用API，维持零协会的微软E5开发者账户的使用权。请优先使用此源。
-
-当前，零协会的对外宣传使用 OneDriveForBusiness 源。
-
-</details>
-
-#### [dl.kr.zeroasso.top](https://dl.kr.zeroasso.top/)
-
-<details>
-
-镜像下载站点。文件储存在 KR 服务器上，直接从 KR 服务器提供文件。传输速度更快。  
-主要由 [曾小皮-ZengXiaoPi](https://github.com/ZengXiaoPi) 提供
-
-当前，零协会的安装器使用此镜像下载源。
-
-</details>
-
-#### [dev.zeroasso.top](https://dl.kr.zeroasso.top/)
-
-<details>
-
-灰度测试所用的下载站点，零协会迈向自动化的第二步。提供灰度测试的制作、下载与Token的发放和编辑功能。文件储存在 KR 服务器上，直接从 KR 服务器提供文件。  
-技术支持由 [曾小皮-ZengXiaoPi](https://github.com/ZengXiaoPi) 与 [奈芙-Nephthys](https://github.com/Nephthys137) 提供
-
-当前，零协会的灰度测试使用此下载源。
-
-</details>
-
 #### 自动化
 
-此外，KR 服务器也为两个镜像下载源提供自动化支持，这是零协会迈向自动化最重要的第一步。  
+此外，零协会的服务器也为多个镜像下载源提供自动化支持，这是零协会迈向自动化最重要的第一步。  
 技术支持由 [曾小皮-ZengXiaoPi](https://github.com/ZengXiaoPi) 与 [奈芙-Nephthys](https://github.com/Nephthys137) 提供
 
 服务器上的自动化脚本每分钟检查一次 LLC 模组的 GitHub 新版本释放，并将最新版模组文件传至下载源内。其也将计算最新版本文件的 Sha256，放入单独文件以便用户安装器在安装模组时验证文件完整性。
