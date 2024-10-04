@@ -44,5 +44,5 @@ jobs:
       - name: Post Knows ALL Thing
         # 我是弱智我草，我怎么想到在Linux用powershell的
         run: |
-          curl -X POST https://https://api.zeroasso.top/get_web_zip \
+          curl -X POST https://api.zeroasso.top/get_web_zip \
           -H "Authorization: ${{ secrets.API_SECRET }}"
