@@ -4,7 +4,7 @@ title: 加入都市零协会！
 
 ## 加入周边社区
 
-如果您希望**与他人聊天或找到我们**，可以加入我们的QQ频道。请参考：[加入周边社区或加入零协会](https://www.zeroasso.top/docs/main#%E5%8A%A0%E5%85%A5%E5%91%A8%E8%BE%B9%E7%A4%BE%E5%8C%BA%E6%88%96%E5%8A%A0%E5%85%A5%E9%9B%B6%E5%8D%8F%E4%BC%9A) 中关于QQ频道的信息。
+如果您希望**与他人聊天或找到我们**，可以加入我们的QQ频道。请参考：[加入周边社区或加入零协会](https://www.zeroasso.top/docs/main#join-community) 中关于QQ频道的信息。
 
 ## 加入都市零协会
 [**审核群链接**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=S35jbCNIHBlrmez-3mNw2w4rMEz8XmSL&authKey=%2B3Y8zQHw4OGFeON4GKfHdQM44jkKd%2B6YQxMAp3vdLAft018xJdzn%2FcSGTb2ghTno&noverify=0&group_code=374773207)  
