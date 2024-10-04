@@ -1,12 +1,12 @@
 {
     "position": 40,
-    "label": "开发文档",
+    "label": "工具箱相关",
     "collapsible": true,
     "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "开发文档"
+      "title": "工具箱相关"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"
