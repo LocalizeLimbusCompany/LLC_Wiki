@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Localize Limbus Company Blog</title>
+        <link>https://www.zerossso.top/blog</link>
+        <description>Localize Limbus Company Blog</description>
+        <lastBuildDate>Sun, 27 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[LLC_MOD_Toolbox（都市零协会工具箱）相关协议]]></title>
+            <link>https://www.zerossso.top/blog/2023/8/27/</link>
+            <guid>/2023/8/27/</guid>
+            <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[LLCMODToolbox，中文名都市零协会工具箱（以下简称工具箱），在当前使用 MIT 协议。]]></description>
+            <content:encoded><![CDATA[<p>LLC_MOD_Toolbox，中文名都市零协会工具箱（以下简称工具箱），在当前使用<a href="https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox?tab=MIT-1-ov-file#MIT-1-ov-file" target="_blank" rel="noopener noreferrer"> MIT 协议</a>。<br>
+<!-- -->在开发过程中，使用了许多其他开源项目。<br>
+<!-- -->若此处没有列举您的开源项目，请联系我（<a href="mailto:postmaster@zeroasso.top" target="_blank" rel="noopener noreferrer">postmaster@zeroasso.top</a>）</p><hr><ul><li>SunnyUI（v0.7.0前Winform版工具箱使用） | <a href="https://gitee.com/yhuse/SunnyUI/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">GPL-3.0</a></li><li>Log4net | <a href="http://www.apache.org/licenses/LICENSE-2.0.txt" target="_blank" rel="noopener noreferrer">Apache License V2</a></li><li>WPF（v0.7.0及后续版本基本架构） | <a href="https://github.com/dotnet/wpf?tab=MIT-1-ov-file#" target="_blank" rel="noopener noreferrer">MIT</a></li><li>Dotnet 8.0（v0.7.0前为 4.7.2 &amp; 4.8） | <a href="https://github.com/dotnet/dotnet#MIT-1-ov-file" target="_blank" rel="noopener noreferrer">MIT（SDK）</a></li><li>SevenZipSharp | <a href="https://github.com/squid-box/SevenZipSharp?tab=LGPL-3.0-1-ov-file#readme" target="_blank" rel="noopener noreferrer">LGPL-3.0</a></li><li>Downloader | <a href="https://github.com/bezzad/Downloader?tab=MIT-1-ov-file#readme" target="_blank" rel="noopener noreferrer">MIT</a></li><li>Newtonsoft.Json | <a href="https://github.com/JamesNK/Newtonsoft.Json?tab=MIT-1-ov-file#readme" target="_blank" rel="noopener noreferrer">MIT</a></li></ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
