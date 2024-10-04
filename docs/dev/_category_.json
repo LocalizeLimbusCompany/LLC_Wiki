@@ -6,7 +6,7 @@
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "开发者"
+      "title": "开发文档"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"
