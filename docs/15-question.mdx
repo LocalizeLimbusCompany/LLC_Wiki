@@ -66,16 +66,10 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 
 事实证明，大部分问题是网络问题。针对网络问题，敬请参考[排除安装器网络问题的综合指引](https://www.zeroasso.top/docs/FAQ#network-fix)。
 
-### 正常安装后，游戏却不受影响，且无控制台弹窗 {#no-console}
-首先，请您务必确认您的模组**真的正常安装**，并且，确保您的系统真的兼容BepInEx。
+### winhttp.dll不存在 {#no-dll}
 
-对此，我们提供两种基于多人经验的解决办法。
-- 使用兼容模式运行LimbusCompany  
-若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭兼容模式。就算不一直打开兼容模式，模组也应当能保持正常。
-- 使用管理员模式运行LimbusCompany  
-若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭管理员模式。就算不一直打开管理员模式，模组也应当能保持正常。
-- 等待。**这个问题有自行解决的倾向。**请您继续您的工作，并保持正常、规律的开关机。这个问题很有可能隔天便不复存在。  
-虽然听起来既玄学又无奈，但有很多其他人通过等待解决问题的案例：请参考GitHub上的 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
+1. 进入设置页面，点击**切换模组开关状态**按钮，确保模组为**开启**。
+2. 请关闭任何**杀毒软件或防火墙**等，或解除其对模组文件的影响与限制。
 
 ### 模组工具箱在启动时无响应后闪退 {#set-folder-path}
 目前寻找边狱公司路径可能存在部分问题，导致自动寻找边狱公司路径出现问题。  
@@ -105,6 +99,17 @@ import DownloadButtonGroup from "@site/src/components/MdxComponents/DownloadBtnG
 按下`Ctrl+S`保存后，重新打开工具箱。如果您的操作没有问题，那么应该能够正常开启了。
 
 </details>
+
+### 正常安装后，游戏却不受影响，且无控制台弹窗 {#no-console}
+首先，请您务必确认您的模组**真的正常安装**，并且，确保您的系统真的兼容BepInEx。
+
+对此，我们提供两种基于多人经验的解决办法。
+- 使用兼容模式运行LimbusCompany  
+若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭兼容模式。就算不一直打开兼容模式，模组也应当能保持正常。
+- 使用管理员模式运行LimbusCompany  
+若此方式成功唤起BepInEx，那么在第一次成功之后，您便可以关闭管理员模式。就算不一直打开管理员模式，模组也应当能保持正常。
+- 等待。**这个问题有自行解决的倾向。**请您继续您的工作，并保持正常、规律的开关机。这个问题很有可能隔天便不复存在。  
+虽然听起来既玄学又无奈，但有很多其他人通过等待解决问题的案例：请参考GitHub上的 [Issue #170](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/170)
 
 ### 控制台刷屏出现大量红字 {#red-console}
 如果这些信息前方有`Unity`字样(如下图)，则请忽略。这些报错出自游戏程序本身，并非模组导致，且不影响正常游玩。  
