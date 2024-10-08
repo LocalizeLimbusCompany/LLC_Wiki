@@ -18,7 +18,7 @@ title: 自建下载/API节点
 ## 自建下载节点
 你不仅需要提供模组文件，你还需要准备`BepInEx-IL2CPP-x64.7z`，`tmpchinesefont_BIE.7z`你可以从[零协会节点站](https://node.zeroasso.top)获取这两个文件。模组文件也要遵循一定的格式，例如`LimbusLocalize_BIE_v0.6.53.7z`，便是`LimbusLocalize_BIE_` + 版本号 + `.7z`。
 
-搭建完成后，便可以修改`NodeList.json`。打开工具箱目录，打开`NodeList.json`（推荐使用Visual Studio，这样能够提示你的Json语法是否有错误），你将会看到一大堆字儿。比如：
+搭建完成后，便可以修改`NodeList.json`。打开工具箱目录，打开`NodeList.json`（推荐使用Visual Studio Code，这样能够提示你的Json语法是否有错误），你将会看到一大堆字儿。比如：
 ```json title="LLC_MOD_Toolbox/NodeList.json"
 {
   "downloadNode": [
@@ -119,7 +119,7 @@ title: 自建下载/API节点
 - `LatestTmp_Release.json`：`https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest`
 （说实话，我并不知道这些API是不是都要用到，不过你还是全都下载下来吧）
 
-搭建完成后，便可以修改`NodeList.json`。打开工具箱目录，打开`NodeList.json`（推荐使用Visual Studio，这样能够提示你的Json语法是否有错误），你将会看到一大堆字儿。比如：
+搭建完成后，便可以修改`NodeList.json`。打开工具箱目录，打开`NodeList.json`（推荐使用Visual Studio Code，这样能够提示你的Json语法是否有错误），你将会看到一大堆字儿。比如：
 ```json title="LLC_MOD_Toolbox/NodeList.json"
 {
   "downloadNode": [
