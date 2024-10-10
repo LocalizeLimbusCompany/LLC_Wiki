@@ -3,7 +3,7 @@ title: 边狱公司文件转移工具
 ---
 
 ## 获取
-<a href="https://node.zeroasso.top/d/od/%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8%E6%96%87%E4%BB%B6%E8%BD%AC%E7%A7%BB%E5%B7%A5%E5%85%B7.zip" class="buttonDownload">OneDrive For Business</a>
+<a href="https://node.zeroasso.top/d/od/%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8%E6%96%87%E4%BB%B6%E8%BD%AC%E7%A7%BB%E5%B7%A5%E5%85%B7%20LTS%202.0.zip" class="buttonDownload">OneDrive For Business</a>
 
 ## 目的
 注：出于共享和方便社区的目的，零协会仅以本方式传播本工具。零协会没有参与本工具的任何编写和制作过程。
@@ -26,5 +26,10 @@ title: 边狱公司文件转移工具
 - 文件解压密码为```Meitei```。大小写敏感，请您注意大小写。
 - 零协会将**不会**为本文件造成的任何损失提供任何帮助或担保。
 
+## 更新日志
+- 2024.10.11更新
+  - 现在边狱巴士文件转移工具可以转移音频文件了
+  - 优化了部分指令集
+  - 
 ## 关于
 本工具来自：迷亭先生
