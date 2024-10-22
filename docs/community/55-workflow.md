@@ -130,3 +130,12 @@ Paratranz平台上的进度可自动化地同步至GitHub仓库。
 ![image](/img/workflow/0505.png)
 
 绘：[@小婷子巡](https://space.bilibili.com/1133939046)
+
+### 2024年8月29日 工具箱v0.6.x再见，v1.0.0你好！
+
+安装器v1.0.0版本到来！在很长一段的Beta版本过度期之后，我们终于迎来了安装器的Alpha版本。
+
+多亏了[曾小皮-ZengXiaoPi](https://space.bilibili.com/481298570)的程序支持，和来自[保存ctrl-s-](https://space.bilibili.com/367279654)的美术设计！  
+其中还有来自[超高校级の玉佩](https://space.bilibili.com/10979687)和[Napstablook-owo](https://space.bilibili.com/266708018)提供的素材绘画！
+
+![image](/img/workflow/betatoalpha.png)
