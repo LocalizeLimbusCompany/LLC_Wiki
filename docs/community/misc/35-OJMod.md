@@ -25,7 +25,7 @@ title: 100%鲜橙汁角色模组
 ![image](/img/page/OJmod/cuties_hit.jpg)
 ![image](/img/page/OJmod/preview.png)
 
-Steam创意工坊：[零协会的虚拟人物 - 宋清秋](https://steamcommunity.com/sharedfiles/filedetails/?id=3075019086)
+Steam创意工坊：[零协会的虚拟人物](https://steamcommunity.com/sharedfiles/filedetails/?id=3075019086)
 
 ## [自用]亚莉希安罗妮1号配色→玉佩自设
 
