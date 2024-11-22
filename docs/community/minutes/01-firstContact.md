@@ -8,7 +8,7 @@ title: 首次沟通
 The archive is provided bilingual to aid international readers.
 
 然而，只有韩语才是我们与月亮计划的沟通原文。即便我们会提供翻译，也请以韩文内容为准。  
-However, Korean is originally used in the communications between us (LocalizeLimbusCompany) and the Project Moon company. Accurate understanding should be based on Korean, despite translation provided.
+However, Korean is originally used in the communications between us (LocalizeLimbusCompany) and Project Moon. Accurate understanding should be based on Korean, despite translation provided.
 
 :::
 
@@ -23,7 +23,7 @@ As according to Project Moon, they will not suspend player accounts for using tr
 
 ![image](/img/page/email01.png)
 
-出于隐私考虑，图片中去除了敏感的发件人信息。
+出于隐私考虑，图片中去除了敏感的发件人信息。  
 Sensitive sender information is redacted due to privacy considerations.
 
 ## 去信内容 Content Sent
@@ -34,7 +34,9 @@ Sensitive sender information is redacted due to privacy considerations.
 
 저희는 림버스 컴퍼니의 중국어 모듈을 개발하는데 많은 것을 투입하였고 중국 국내에서도 많은 유저들이 저희들의 모듈을 사용하고 있습니다 (모듈은 완전히 무료로 제공합니다,우리는 상업적으로 영리를 하지 않습니다).중국어 모듈은 시스템의 영어를 덮어 쓰는 방식으로 작동되는 것인데 혹시 Steam의 BattleEye에 의해 유저의 계정이 동결될지를 알고싶습니다.이에 대한 회답을 간절히 바랍니다.
 
-우리는 이미 번역 모듈에 일정한 성과를 거두었습니다.https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany에서 직접 확인 하실수도 있습니다.
+우리는 이미 번역 모듈에 일정한 성과를 거두었습니다.  
+https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany  
+에서 직접 확인 하실수도 있습니다.
 
 림버스 컴퍼니의 중국어 번역의 필요성을 설명해드리죠.Steam의 데이터에 따르면 적어도 20%의 유저들은 중국인입니다.도서관의 39.6%와 차이가 있는 원인이 중국어로 게임을 즐길수 없는 것입니다.지금은 프로젝트 문이 중국에서의 지명도가 한창 높아지고 있는 상황입니다.중국의 많은 미디어에서도 림버스 컴퍼니의 영상을 보게되고 그 재생량도 도서관 시기에 보다 많이 늘어난 축입니다.그리고 재미있는 정보를 하나 알려드려 주겠습니다——중국의 프로젝트 문의 팬들은 기본상 명일방주의 유저이기도 합니다.그것은 즉 중국의 100만 여명의 명일방주 유저들도 당신들의 팬으로 될 가능성이 있다는 것입니다.그냥 림버스 컴퍼니를 중국어로 즐길수만 있으면 말이예요.
 
@@ -42,7 +44,7 @@ Sensitive sender information is redacted due to privacy considerations.
 
 만우절 이벤트의 내용을 배꼽이 빠지게 웃으며 번역하던 날이 어제인것 같네요,프로젝트 문은 특색있고도 다채로운 도시를 우리에게 보여주었죠.이 사건의 결과가 어떻게 되든가에 감사해요.그리고 이후에도 사업이 잘 되기를 바랍니다.다시한번 부탁드리지만 회답을 간절히 바랍니다.우리는 소통을 원합니다.
 
-2023/4/18
+2023/4/18  
 중국어 민간 번역조직 올림
 
 ## 回信内容 The Reply
@@ -58,7 +60,7 @@ Sensitive sender information is redacted due to privacy considerations.
 
 프로젝트문 드림.
 
-中文翻译
+**中文翻译**
 <details>
 
 您好，这里是月亮计划。
@@ -74,7 +76,7 @@ Sensitive sender information is redacted due to privacy considerations.
 </details>
 
 
-English translation
+**English translation**
 <details>
 
 Hello, this a statement from Project Moon.

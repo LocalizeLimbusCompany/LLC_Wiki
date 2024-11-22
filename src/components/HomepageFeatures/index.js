@@ -15,7 +15,7 @@ const FeatureList = [
     title: '月亮计划已经知悉本模组',
     description: (
       <>
-	    月亮计划已在回信中言明不会因使用翻译模组导致账号封禁。相关内容请查看<a href="https://github.com/orgs/LocalizeLimbusCompany/discussions/252">本公告</a>
+	    月亮计划已在回信中言明不会因使用翻译模组导致账号封禁。相关内容请查看<a href="www.zeroasso.top/docs/community/minutes/firstContact">本公告</a>
       </>
     ),
   },
