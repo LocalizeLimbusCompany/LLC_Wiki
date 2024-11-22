@@ -1,0 +1,14 @@
+{
+    "position": 95,
+    "label": "其他项目",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "沟通记录留档"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+  }
