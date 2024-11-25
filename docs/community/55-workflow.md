@@ -127,6 +127,10 @@ Paratranz平台上的进度可自动化地同步至GitHub仓库。
 我们很荣幸能和大家一起完成各种各样的事情。  
 哪怕形色恍惚，此路仍是一片通途。
 
+![image](/img/workflow/bili10wfo1.jpg)
+
+![image](/img/workflow/bili10wfo2.jpg)
+
 ![image](/img/workflow/0505.png)
 
 绘：[@小婷子巡](https://space.bilibili.com/1133939046)
@@ -139,3 +143,11 @@ Paratranz平台上的进度可自动化地同步至GitHub仓库。
 其中还有来自[超高校级の玉佩](https://space.bilibili.com/10979687)和[Napstablook-owo](https://space.bilibili.com/266708018)提供的素材绘画！
 
 ![image](/img/workflow/betatoalpha.png)
+
+### 2024年11月19日 16wfo & 请吃全员绘！
+
+![image](/img/workflow/everyChibi1.png)
+
+![image](/img/workflow/everyChibi2.png)
+
+绘：[@宋清秋](https://space.bilibili.com/183913897)

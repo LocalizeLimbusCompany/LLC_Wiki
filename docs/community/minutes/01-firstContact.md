@@ -8,7 +8,7 @@ title: 首次沟通
 The archive is provided bilingual to aid international readers.
 
 然而，只有韩语才是我们与月亮计划的沟通原文。即便我们会提供翻译，也请以韩文内容为准。  
-However, Korean is originally used in the communications between us (LocalizeLimbusCompany) and Project Moon. Accurate understanding should be based on Korean, despite translation provided.
+However, Korean is originally used in the communications between us (LocalizeLimbusCompany) and Project Moon. Accurate understanding should be based on Korean, despite the translation provided.
 
 :::
 
