@@ -21,7 +21,7 @@ title: 模组设置 - 特殊功能
 如果您从未更改过该文件，那么打开后这个文件看起来应该是这样：
 
 ```
-## Settings file was created by plugin LimbusLocalizeMod v0.6.24
+## Settings file was created by plugin LimbusLocalizeMod v0.6.58
 ## Plugin GUID: Com.Bright.LocalizeLimbusCompany
 
 [LLC Settings]
@@ -32,15 +32,20 @@ title: 模组设置 - 特殊功能
 AutoUpdate = false
 
 ## 自动更新所使用URI ( GitHub:默认 | Mirror_OneDrive:镜像,更新可能有延迟,但下载速度更快 )
-# Setting type: URI
+# Setting type: Uri
 # Default value: GitHub
-# Acceptable values: GitHub, Mirror_OneDrive
+# Acceptable values: GitHub, MirrorOneDrive
 UpdateURI = GitHub
 
 ## 是否使用汉化 ( true | false )
 # Setting type: Boolean
 # Default value: true
 IsUseChinese = true
+
+## 将罪人在战斗内的语音文本翻译以头顶气泡的形式呈现 ( true | false )
+# Setting type: Boolean
+# Default value: false
+ShowDialog = false
 
 ## 是否随机选择载入标语,即右下角的[NOW LOADING...] ( true | false )
 # Setting type: Boolean
@@ -50,7 +55,7 @@ RandomLoadText = true
 
 若您需要更改本文件，**请务必注意`true`和`false`的拼写，以及空格的存在**。
 
-## 是否自动检查并下载更新
+## 是否自动检查并下载更新 {#AutoUpdate}
 如果您不知道该选项意味着什么，请**不要**将该选项设置为`true`。  
 将其保持为`false`即可。
 
@@ -62,7 +67,7 @@ RandomLoadText = true
 若您选择启用此功能，请您同时检查并调整“**自动更新所使用URI**”项。
 
 我们建议大部分用户选择 `Mirror_OneDrive`；若您与GitHub的连接**完全畅通**，则推荐您选择 `GitHub`。  
-`Mirror_OneDrive` 基于我们的首尔服务器，并通过企业版OneDrive为您提供文件。因此，能够使用安装工具箱的用户，一般也能直接使用此下载方式。  
+`Mirror_OneDrive` 基于零协会的服务器，并通过企业版OneDrive为您提供文件。因此，能够使用安装工具箱的用户，一般也能直接使用此下载方式。  
 注：工具箱默认URI为 `GitHub`。若需更改为 `Mirror_OneDrive`，请将该行改写为 `UpdateURI = Mirror_OneDrive`。
 
 自动更新将在检测到新版本之后在游戏开始之前弹出弹窗。弹窗样例如下：
@@ -75,13 +80,19 @@ RandomLoadText = true
 如果您使用了本功能，那么**请一定记得及时删除自动下载到游戏根目录内的压缩包，以减少旧版文件堆积**！
 </details>
 
-## 是否使用汉化
+## 是否使用汉化 {#IsUseChinese}
 - `IsUseChinese = true`  
 `true`是默认值，即为使用汉化。
 - `IsUseChinese = false`  
 将其设置为`false`可以关闭汉化。(需要您重启游戏才能生效)
 
-## 是否随机选择载入标语
+## 罪人战斗语音翻译头顶气泡 {#ShowDialog}
+- `ShowDialog = false`  
+`false`是默认值，即为游戏原本体验。
+- `ShowDialog = true`  
+将其设置为`true`将罪人在战斗内的语音文本翻译以头顶气泡的形式呈现。(需要您重启游戏才能生效)
+
+## 是否随机选择载入标语 {#RandomLoadText}
 载入标语是加载扉页中右下角进度条上方的NOW LOADING...字样。  
 我们设置了一些文本，本功能将会在每次加载时从这些文本中随机选择一条取代原本字样。  
 这些文本均由组员提供，且在逐渐扩充。
