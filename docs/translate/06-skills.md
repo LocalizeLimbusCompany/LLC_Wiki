@@ -18,7 +18,7 @@ title: 技能类文本翻译
 
 > 진동 4 부여, 진동 횟수 2 증가  
 > 振動 4を付与、振動 回数を2増加  
-> Inflict 4 Rupture and +2 Rupture Count  
+> Inflict 4 Tremor and +2 Tremor Count  
 > 使目标增加4级震颤 强度并对其施加2层震颤 
 
 ### 2.使自身获得正面buff时：
