@@ -44,3 +44,20 @@ html[data-theme='dark'] .buttonDownload {
     color: #277148;
     border-color: #277148;
 }
+
+/* iframe样式 */
+.video {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+}
+.video iframe,
+.video object,
+.video embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
