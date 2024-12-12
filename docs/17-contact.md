@@ -16,6 +16,22 @@ title: 反馈渠道
 
 开始填写Issue时，**请勿少填必填选项，特别是日志。日志对于解决问题非常关键。除非您非常确定您的问题不需要日志，例如译名问题等。**
 
+:::danger
+
+**关于GitHub反馈不得不说的事情**
+
+您在GitHub的任何反馈都会导致**全体**开发者的**电子邮箱**收到一封**提醒邮件**。
+
+因此，请您在反馈前确认：
+- 你的问题是有意义的，并非是吐槽或评论
+- 你反馈的问题在[零协会动态](https://space.bilibili.com/1247764479/dynamic)**没有**公告
+- 你反馈的问题**不属于**[已关闭/解决的Issue](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues?q=is%3Aissue+is%3Aclosed)
+- 你安装了**最新版本**汉化补丁
+
+请珍惜我们所有人的时间，因为时间就是生命。
+
+:::
+
 ### 在 Github Issue
 
 如果您的问题来自安装器/工具箱/Toolbox，请在 [安装器的 Github Issue](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/issues) 反馈此问题。
