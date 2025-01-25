@@ -7,7 +7,7 @@ const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Localize Limbus Company",
+  title: "LLC文档站",
   tagline: "都市零协会汉化组(LLC)",
   url: "https://www.zerossso.top",
   baseUrl: "/",
