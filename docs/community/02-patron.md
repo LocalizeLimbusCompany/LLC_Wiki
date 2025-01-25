@@ -18,6 +18,7 @@ import simplefun_patron from './static/img/simplefun_patron.png';
 
 <a href="https://simpfun.cn/">
 <img src={simplefun_patron} border="0" width="220" height="100">
+</img>
 </a>
 
 ## 爱发电支持 与 数字内容支持者包
