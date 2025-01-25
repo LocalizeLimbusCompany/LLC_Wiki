@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.zerossso.top/blog</id>
-    <title>Localize Limbus Company Blog</title>
+    <title>LLC文档站 Blog</title>
     <updated>2023-08-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.zerossso.top/blog"/>
-    <subtitle>Localize Limbus Company Blog</subtitle>
+    <subtitle>LLC文档站 Blog</subtitle>
     <icon>https://www.zerossso.top/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[LLC_MOD_Toolbox（都市零协会工具箱）相关协议]]></title>
