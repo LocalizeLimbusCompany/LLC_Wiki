@@ -14,7 +14,7 @@ title: 赞助页面
 
 [***请了解简幻欢以支持我们***](https://simpfun.cn/)
 
-import simplefun_patron from './static/img/simplefun_patron.png';
+import simplefun_patron from '../../static/img/simplefun_patron.png';
 
 <a href="https://simpfun.cn/">
 <img src={simplefun_patron} border="0" width="220" height="100">
