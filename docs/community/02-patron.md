@@ -17,8 +17,10 @@ title: 赞助页面
 import simplefun_patron from '../../static/img/simplefun_patron.png';
 
 <a href="https://simpfun.cn/">
-<img src={simplefun_patron} border="0" align="center" width="357" height="113">
+<div align="center">
+<img src={simplefun_patron} border="0" width="357" height="113">
 </img>
+</div>
 </a>
 
 ## 爱发电支持 与 数字内容支持者包
