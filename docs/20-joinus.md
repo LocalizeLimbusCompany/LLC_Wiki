@@ -42,7 +42,7 @@ title: 加入都市零协会！
 
 请您[点此下载零协会试译文本](https://node.zeroasso.top/d/od/Trial_Translation.pdf)，并在该pdf文件的文字域内完成您的翻译编辑，保存后按文件内指示提交。
 
-### 剪辑
+### ~~剪辑~~ 目前暂停，感谢关注
 
 :::info
 

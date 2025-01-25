@@ -143,8 +143,12 @@ const config = {
             ],
           },
           {
-            title: "别的东西",
+            title: "其他链接",
             items: [
+                {
+                    label: "简幻欢",
+                    to: "https://simpfun.cn"
+                },
               {
                 label: "博客",
                 to: "/blog",
