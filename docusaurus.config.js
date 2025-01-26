@@ -65,7 +65,7 @@ const config = {
     ({
         announcementBar: {
             id: 'simp_support',
-            content: '我们的服务器现由公益平台简幻欢赞助，<a href="/community/patron">了解简幻欢以支持我们→</a>',
+            content: '我们的服务器现由公益平台简幻欢赞助，<a href="/docs/community/patron">了解简幻欢以支持我们→</a>',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: true,
@@ -167,7 +167,7 @@ const config = {
         ],
         logo: {
           alt: '简幻欢',
-          src: '/img/simplefun_patron.png',
+          src: '/img/simplefun_patron_navbar.png',
           href: 'https://simpfun.cn',
         },
         copyright: `都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0`,
