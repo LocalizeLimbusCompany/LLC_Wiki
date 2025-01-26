@@ -167,7 +167,7 @@ const config = {
         ],
         logo: {
           alt: '简幻欢',
-          src: '/img/simplefun_patron',
+          src: '/img/simplefun_patron.png',
           href: 'https://simpfun.cn',
         },
         copyright: `都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0`,
