@@ -64,11 +64,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         announcementBar: {
-            id: 'simp_support',
+            id: 'simpfun_support',
             content: '我们的服务器现由公益平台简幻欢赞助，<a href="/docs/community/patron">了解简幻欢以支持我们→</a>',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
-            isCloseable: true,
+            isCloseable: false,
         },
       metadata: [
         {
