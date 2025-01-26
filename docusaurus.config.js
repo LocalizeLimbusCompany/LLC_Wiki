@@ -63,6 +63,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+        announcementBar: {
+            id: 'simp_support',
+            content: '我们的服务器现由公益平台简幻欢赞助，<a href="/community/patron">了解简幻欢以支持我们→</a>',
+            backgroundColor: '#a26ac8',
+            textColor: '#fff',
+            isCloseable: true,
+        },
       metadata: [
         {
           name: "keywords",
@@ -145,10 +152,6 @@ const config = {
           {
             title: "其他链接",
             items: [
-                {
-                    label: "简幻欢",
-                    to: "https://simpfun.cn"
-                },
               {
                 label: "博客",
                 to: "/blog",
@@ -162,7 +165,12 @@ const config = {
             ],
           },
         ],
-        copyright: `都市零协会汉化组 Localize Limbus Company | 本网站使用 Docusaurus`,
+        logo: {
+          alt: '简幻欢',
+          src: '/img/simplefun_patron',
+          href: 'https://simpfun.cn',
+        },
+        copyright: `都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0`,
       },
       prism: {
         additionalLanguages: ['bash', 'diff', 'json'],
