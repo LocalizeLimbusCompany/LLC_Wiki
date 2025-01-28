@@ -11,8 +11,6 @@ title: 反馈渠道
 
 进入 Github 可能会出现一些网络问题。您可能需要一些改善连接性的工具：  
 您可在 [羽翼城个人博客](https://www.dogfight360.com/blog/686/) 下载 Steamcommunity 302。  
-您可以在 [Watt Toolkit网址](https://steampp.net/) 下载 Watt Toolkit。  
-以上工具都具有改善GitHub连接性的功能。
 
 开始填写Issue时，**请勿少填必填选项，特别是日志。日志对于解决问题非常关键。除非您非常确定您的问题不需要日志，例如译名问题等。**
 
