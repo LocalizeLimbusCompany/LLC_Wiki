@@ -170,7 +170,7 @@ const config = {
           src: '/img/simplefun_patron_navbar.png',
           href: 'https://simpfun.cn',
         },
-        copyright: `都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0`,
+        copyright: `都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0<br><a href="https://beian.miit.gov.cn">京ICP备2025108115号-1</a>`,
       },
       prism: {
         additionalLanguages: ['bash', 'diff', 'json'],
