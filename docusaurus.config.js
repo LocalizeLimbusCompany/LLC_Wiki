@@ -149,6 +149,7 @@ const config = {
               },
             ],
           },
+/*
           {
             title: "其他链接",
             items: [
@@ -156,21 +157,20 @@ const config = {
                 label: "博客",
                 to: "/blog",
               },
-/*
               {
                 label: "小说",
                 to: "/novel/mainpage",
               },
-*/
             ],
           },
+*/
         ],
         logo: {
           alt: '简幻欢',
           src: '/img/simplefun_patron_navbar.png',
           href: 'https://simpfun.cn',
         },
-        copyright: `都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0<br><a href="https://beian.miit.gov.cn" style="color:white">京ICP备2025108115号-1</a>`,
+        copyright: `<p style="color:#949494">都市零协会汉化组 Localize Limbus Company | Used Docusaurus 3.0</p><p style="color:#949494"><img src="/img/备案图标.png" width="20"/> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010602201477" rel="noreferrer" target="_blank">京公网安备11010602201477号</a> <a href="https://beian.miit.gov.cn">京ICP备2025108115号</a></p>`,
       },
       prism: {
         additionalLanguages: ['bash', 'diff', 'json'],
