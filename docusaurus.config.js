@@ -170,7 +170,7 @@ const config = {
           src: '/img/simplefun_patron_navbar.png',
           href: 'https://simpfun.cn',
         },
-        copyright: `<p style="font-size: 14px; color: #949494">都市零协会汉化组 Localize Limbus Company<br>Powered by Docusaurus 3.0 | <img src="/img/备案图标.png" style="vertical-align: middle" width="16"/> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010602201477" rel="noreferrer" target="_blank" style="color:#949494">京公网安备11010602201477号</a> | <a href="https://beian.miit.gov.cn" style="color:#949494">京ICP备2025108115号</a></p>`,
+        copyright: `<p style="font-size: 14px; color: #949494">都市零协会汉化组 Localize Limbus Company<br>Powered by Docusaurus 3.0 | <img src="/img/备案图标.png" style="vertical-align: middle" width="18"/> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010602201477" rel="noreferrer" target="_blank" style="color:#949494">京公网安备11010602201477号</a> | <a href="https://beian.miit.gov.cn" style="color:#949494">京ICP备2025108115号</a></p>`,
       },
       prism: {
         additionalLanguages: ['bash', 'diff', 'json'],
